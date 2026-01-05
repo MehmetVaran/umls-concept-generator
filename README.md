@@ -442,7 +442,9 @@ If processing many diseases, reduce `max_concepts` or evaluate diseases individu
 If you use this framework, please cite the UMLS:
 
 ```
-UMLS Knowledge Sources [dataset on the Internet]. Release 2024AA. Bethesda (MD): National Library of Medicine (US); 2024 May 6 [cited 2024 Jul 15]. Available from: http://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html
+UMLS Knowledge Sources [dataset on the Internet]. Release 2024AA.
+Bethesda (MD): National Library of Medicine (US); 2024 May 6 [cited 2024 Jul 15].
+Available from: http://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html
 ```
 
 ## License
