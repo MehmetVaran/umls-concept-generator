@@ -1,0 +1,1676 @@
+{
+  "Atelectasis": {
+    "disease": "Atelectasis",
+    "candidate_concepts": [
+      {
+        "cui": "C0004144",
+        "name": "Atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0270164",
+        "name": "Perinatal atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Congenital Abnormality"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0264495",
+        "name": "Linear atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0264494",
+        "name": "Discoid atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0264498",
+        "name": "Obstructive atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C2062952",
+        "name": "Round atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0339769",
+        "name": "Tympanic atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0264496",
+        "name": "Focal atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0264497",
+        "name": "Complete atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0205938",
+        "name": "Congestive atelectasis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      }
+    ],
+    "related_concepts": {
+      "C0004144": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/J98.19",
+          "name": "Other pulmonary collapse",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16614365",
+          "name": "CILIARY DYSKINESIA, PRIMARY, 12",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16610532",
+          "name": "CILIARY DYSKINESIA, PRIMARY, 11",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/1237361000",
+          "name": "Pressure collapse of lung due to anesthesia during pregnancy",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/1237361000",
+          "name": "colapso de pulmón por presión debido a anestesia durante embarazo",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C77526",
+          "name": "CDISC SEND Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/330173",
+          "name": "resorption atelectasis without respiratory distress syndrome",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/338656",
+          "name": "post therapeutic collapse of lung status",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHFRE/M0517337",
+          "name": "Atélectasie de résorption",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/M0517337",
+          "name": "plicní atelektáza způsobená resorpcí",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHNOR/M0517337",
+          "name": "Pulmonal resorpsjonatelektase",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/M0517337",
+          "name": "Resorption Pulmonary Atelectasis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHNOR/M0517340",
+          "name": "Kontraksjonsatelektase",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/M0517340",
+          "name": "Contraction Pulmonary Atelectasis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/M0517340",
+          "name": "kontrakční plicní atelektáza",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHFRE/M0517339",
+          "name": "Atélectasie pulmonaire post-opératoire",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/M0517339",
+          "name": "pooperační plicní atelektáza",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHNOR/M0517339",
+          "name": "Postoperativ pulmonal atelektase",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/M0517339",
+          "name": "Postoperative Pulmonary Atelectasis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/33829",
+          "name": "round atelectasis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/448370006",
+          "name": "Round atelectasis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/448370006",
+          "name": "Round atelectasis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/448370006",
+          "name": "atelectasis redondeada",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25869150",
+          "name": "Runde Atelektase",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0270164": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/363225006",
+          "name": "Neonatal respiratory system disorder",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/363225006",
+          "name": "trastorno del aparato respiratorio neonatal",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11024593",
+          "name": "andere en niet-gespecificeerde atelectase bij de foetus of pasgeborene",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11036692",
+          "name": "andere en niet-gespecificeerde atelectase bij de foetus en pasgeborene",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11095686",
+          "name": "Autre atélectasie non précisée du foetus ou du nouveau-né",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11095687",
+          "name": "Autre atélectasie non précisée du foetus ou du nouveau-né",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11148961",
+          "name": "sonstige und unspezifische Atelektase bei Fetus und Neugeborenem",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11161019",
+          "name": "sonstige und unspezifische Atelektase bei Fetus und Neugeborenem",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11167021",
+          "name": "Altra e non specificata atelettasia del feto o del neonato",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11208745",
+          "name": "Altra e non specificata atelettasia del feto e del neonato",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11244484",
+          "name": "Outra e NE atelectasia do feto e recém-nascido",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11250351",
+          "name": "Outra e NE atelectasia do feto ou recém-nascido",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11288612",
+          "name": "Otras atelectasias y las no especificadas del feto o del recién nacido",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11323131",
+          "name": "Otras atelectasias y las no especificadas del feto y del recién nacido",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15764664",
+          "name": "Jiná a nespecifikovaná atelektáza plodu a novorozence",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15807936",
+          "name": "Jiná a nespecifikovaná atelektáza plodu nebo novorozence",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A1581592",
+          "name": "Other and unspecified atelectasis of fetus or newborn",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A1581594",
+          "name": "Other and unspecified atelectasis of fetus and newborn",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A19430752",
+          "name": "Magzat és újszülött egyéb és meghatározatlan atelectasiája",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A19475891",
+          "name": "Magzat vagy újszülött egyéb és meghatározatlan atelectasiája",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A30767290",
+          "name": "Другой и неуточненный ателектаз у плода или новорожденного",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A30820356",
+          "name": "Другой и неуточненный ателектаз у плода и новорожденного",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A31347091",
+          "name": "기타 및 상세 불명의 태아 또는 신생아의 폐 확장 부전",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A31380118",
+          "name": "기타 및 상세 불명의 태아 및 신생아의 폐 확장 부전",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A32125781",
+          "name": "Atelectasia do feto ou recém-nascido, outra e não especificada",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0264495": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0676548",
+          "name": "Collapses",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/16277007",
+          "name": "colapso",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/16277007",
+          "name": "Collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0571102",
+          "name": "OTHER LUNG DISEASES AND CONDITIONS",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A33193555",
+          "name": "Platelike atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A33194789",
+          "name": "Discoid atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/11689004",
+          "name": "Linear atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/404853",
+          "name": "Linear atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0387061",
+          "name": "ATELECTASIS",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.1",
+          "name": "Pulmonary collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/33086",
+          "name": "atelectasis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/HPO/HP:0100750",
+          "name": "Atelectasis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/46621007",
+          "name": "Atelectasis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/46621007",
+          "name": "atelectasia",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/39607008",
+          "name": "Lung structure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/39607008",
+          "name": "estructura del pulmón",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0264494": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/18220",
+          "name": "x-ray of chest: platelike atelectasis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0676548",
+          "name": "Collapses",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/16277007",
+          "name": "colapso",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/16277007",
+          "name": "Collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0571102",
+          "name": "OTHER LUNG DISEASES AND CONDITIONS",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A33194078",
+          "name": "Linear atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A33194078",
+          "name": "Linear atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0387061",
+          "name": "ATELECTASIS",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.1",
+          "name": "Pulmonary collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/46621007",
+          "name": "Atelectasis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/46621007",
+          "name": "atelectasia",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/39607008",
+          "name": "Lung structure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/39607008",
+          "name": "estructura del pulmón",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0264498": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/427286007",
+          "name": "Obstruction of lower respiratory tract",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/427286007",
+          "name": "obstrucción del tracto respiratorio inferior",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/82094008",
+          "name": "Lower respiratory tract structure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/82094008",
+          "name": "estructura de la vía respiratoria inferior",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0676548",
+          "name": "Collapses",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/16277007",
+          "name": "colapso",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/16277007",
+          "name": "Collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0571102",
+          "name": "OTHER LUNG DISEASES AND CONDITIONS",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/58525007",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/404860",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35443002",
+          "name": "Obstructive atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C2062952": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/33829",
+          "name": "round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/448370006",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25691400",
+          "name": "Round atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0339769": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000171",
+          "name": "Hearing impairment (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000171",
+          "name": "Hearing impairment (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000171",
+          "name": "Déficit auditivo (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000171",
+          "name": "Déficit auditivo (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000171",
+          "name": "Deficiência auditiva (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000171",
+          "name": "Deficiência auditiva (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000171",
+          "name": "Hardhorendheid (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000171",
+          "name": "Hardhorendheid (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000171",
+          "name": "Compromissione dell'udito (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000171",
+          "name": "Compromissione dell'udito (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000171",
+          "name": "Déficience auditive (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000171",
+          "name": "Déficience auditive (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000171",
+          "name": "Hoerstoerung (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000171",
+          "name": "Hoerstoerung (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000171",
+          "name": "Porucha sluchu (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000171",
+          "name": "Porucha sluchu (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000171",
+          "name": "聴覚障害（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000171",
+          "name": "聴覚障害（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000171",
+          "name": "Halláskárosodás (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000171",
+          "name": "Halláskárosodás (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000171",
+          "name": "Нарушение слуха (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000171",
+          "name": "Нарушение слуха (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000171",
+          "name": "청력 장애(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000171",
+          "name": "청력 장애(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000171",
+          "name": "Comprometimento auditivo (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0264496": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13679",
+          "name": "x-ray of chest: lobar or localized alveolar infiltrate",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/18219",
+          "name": "x-ray of chest: lobar atelectasis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0676548",
+          "name": "Collapses",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/16277007",
+          "name": "colapso",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/16277007",
+          "name": "Collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0571102",
+          "name": "OTHER LUNG DISEASES AND CONDITIONS",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0387061",
+          "name": "ATELECTASIS",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.1",
+          "name": "Pulmonary collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/46621007",
+          "name": "Atelectasis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/46621007",
+          "name": "atelectasia",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/39607008",
+          "name": "Lung structure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/39607008",
+          "name": "estructura del pulmón",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0264497": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A1176822",
+          "name": "Complete atelectasis of left lung",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/123593009",
+          "name": "Complete atelectasis of left lung",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/123593009",
+          "name": "atelectasia total del pulmón izquierdo",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0546330",
+          "name": "Complete atelectasis of left lung",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A1176823",
+          "name": "Complete atelectasis of right lung",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/123594003",
+          "name": "Complete atelectasis of right lung",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/123594003",
+          "name": "atelectasia total del pulmón derecho",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0546331",
+          "name": "Complete atelectasis of right lung",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0676548",
+          "name": "Collapses",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/16277007",
+          "name": "colapso",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/16277007",
+          "name": "Collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0571102",
+          "name": "OTHER LUNG DISEASES AND CONDITIONS",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/91036007",
+          "name": "Complete atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/404859",
+          "name": "Complete atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0387061",
+          "name": "ATELECTASIS",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.1",
+          "name": "Pulmonary collapse",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/33086",
+          "name": "atelectasis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/46621007",
+          "name": "Atelectasis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/46621007",
+          "name": "atelectasia",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0004144",
+          "name": "Atelectasis",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357980",
+          "name": "Lung, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/39607008",
+          "name": "Lung structure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/39607008",
+          "name": "estructura del pulmón",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0205938": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0690866",
+          "name": "Due to",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15576893",
+          "name": "Atelectases, Congestive Pulmonary",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15576894",
+          "name": "Congestive Pulmonary Atelectases",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15580790",
+          "name": "Atelectasis, Congestive Pulmonary",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15580791",
+          "name": "Congestive Atelectases",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15584809",
+          "name": "Pulmonary Atelectases, Congestive",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15586723",
+          "name": "Pulmonary Atelectasis, Congestive",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15590719",
+          "name": "Atelectases, Congestive",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26646575",
+          "name": "Congestive Pulmonary Atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26646575",
+          "name": "Congestive Pulmonary Atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26646575",
+          "name": "Congestive Pulmonary Atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26646575",
+          "name": "Congestive Pulmonary Atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26646575",
+          "name": "Congestive Pulmonary Atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26665311",
+          "name": "Congestive Atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26665311",
+          "name": "Congestive Atelectasis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0388221",
+          "name": "Acute insufficiency",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/M0001899",
+          "name": "atelektáza",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/M0001899",
+          "name": "Pulmonary Atelectasis",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHSPA/M0001899",
+          "name": "Atelectasia Pulmonar",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHFRE/M0001899",
+          "name": "Atélectasie pulmonaire",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHITA/M0001899",
+          "name": "Atelettasia polmonare",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOR/M0001899",
+          "name": "Atelectasia Pulmonar",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHNOR/M0001899",
+          "name": "Pulmonal atelektase",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHGER/M0001899",
+          "name": "Atelektase",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0472979",
+          "name": "adult respiratory distress syndrome",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ]
+    }
+  }
+}

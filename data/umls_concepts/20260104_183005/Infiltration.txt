@@ -1,0 +1,165 @@
+3-HYDROXY-3-METHYLGLUTARYL-CoA SYNTHASE-2 DEFICIENCY
+ANAESTHESIA LOCAL
+Acupuncture and allied techniques
+Acupuncture therapy discipline
+Administration via Continuous Infiltration
+Anaesthesia and allied procedures
+Anaesthesia és kapcsolódó eljárások
+Anaesthesie und damit im Zusammenhang stehende Eingriffe
+Anesteesia ja sellega seotud protseduurid
+Anestesi och liknande procedurer
+Anestesia e procedimentos afins
+Anestesia e procedure correlate
+Anestesia ja siihen liittyvät toimenpiteet
+Anestesia y procedimientos afines
+Anestezie a příbuzné procedury
+Anestezija i srodni postupci
+Anestezija ir giminingos procedūros
+Anesthesia, Infiltration
+Anesthésies et actes apparentés
+Anestēzija un ar to saistītās manipulācijas
+Biochemical Process
+Biophysical Process
+CDISC SDTM Route of Administration Terminology
+CDISC SDTM Terminology
+CDISC SEND Terminology
+CONGENITAL MYOPATHY 9B, PROXIMAL, WITH MINICORE LESIONS
+Cellular infiltrate
+Clinical Data Interchange Standards Consortium Terminology
+Contact lens related corneal infiltrate
+DEPOSITIONS
+Deposition
+EDQM Health Care Terminology
+EDQM-HC Routes and Methods of Administration Terminology
+FDA Center For Devices and Radiological Health Terminology
+FDA Structured Product Labeling Terminology
+Fatty Depositions
+Fatty infiltration
+Herpes simplex subepithelial infiltrates
+Herpes zoster subepithelial infiltrates
+IMMUNODEFICIENCY 41 WITH LYMPHOPROLIFERATION AND AUTOIMMUNITY
+Infiltrate;skin
+Infiltration
+Infiltration (procedure)
+Infiltration - action
+Infiltration Anesthesia
+Infiltration Route of Administration
+Infiltration of acupuncture point
+Infiltration of steroid into trigger point
+Infiltrations
+Infiltrazione linfocitaria
+Injection
+Injection of skin
+Intradermal infiltration
+Intramuscular infiltration
+Leukemic Infiltration
+Leukemic infiltration of orbit
+Leukemic infiltration of skin (T-cell lymphoblastic leukemia)
+Leukemic infiltration of skin (T-cell prolymphocytic leukemia)
+Leukemic infiltration of skin (chronic T-cell lymphocytic leukemia)
+Leukemic infiltration of skin in acute myeloid leukemia
+Leukemic infiltration of skin in chronic myeloid leukemia
+Leukemic infiltration of skin in hairy-cell leukemia
+Leukemic infiltration of skin in monocytic leukemia
+Leukemic infiltration of skin in myeloid leukemia
+Liver
+Lymfocytová infiltrace
+Lymphocytic infiltration
+MARINESCO-SJOGREN SYNDROME
+MRI of heart for morphology: right atrium myocardium infiltrated
+MUSCLE SOFT, TISSUE
+MYOPATHY, SCAPULOHUMEROPERONEAL
+Mechanism of disease spread value
+NEMALINE MYOPATHY 5B, AUTOSOMAL RECESSIVE, CHILDHOOD-ONSET
+NEURONOPATHY, DISTAL HEREDITARY MOTOR, AUTOSOMAL RECESSIVE 7
+Nerve blocks, infiltrations and injections
+No fatty infiltration seen
+PHOSPHOENOLPYRUVATE CARBOXYKINASE DEFICIENCY, CYTOSOLIC
+Parenteral Route of Administration
+Procedury anestezjologiczne i pokrewne
+Radiochemotherapy by local infiltration
+Radiotherapy by infiltration of tissue
+SPL Drug Route of Administration Terminology
+Scar
+Scar infiltration
+Scar infiltration of local anaesthetic
+Scar infiltration of local anaesthetic and steroid
+Scar infiltration of local anesthetic
+Scar infiltration of neurolytic substance
+Scar infiltration of steroid
+Skin infiltration
+Skin infiltration of local anaesthetic
+Skin infiltration of local anaesthetic and steroid
+Skin infiltration of local anesthetic
+Skin infiltration of neurolytic substance
+Skin infiltration of steroid
+Skin structure
+Spread by direct extension
+Subcutaneous tissue infiltration
+Svæfingar og tengdar aðgerðir
+Sweet's disease caused by drug
+Sweet's disease following infection
+T-cell leukemic infiltration of skin
+anesthesie en verwante verrichtingen
+cicatriz
+depósito
+diagnosis
+enfermedad de Sweet medicamentosa
+enfermedad de Sweet posterior a infección
+estructura de la piel
+genetics
+history
+immunology
+infiltración
+infiltración - acción
+infiltración de cicatriz
+infiltración de cicatriz con anestesia local
+infiltración de cicatriz con esteroides
+infiltración de cicatriz con sustancia neurolítica
+infiltración de piel con anestesia local
+infiltración de piel con esteroides
+infiltración de piel con sustancia neurolítica
+infiltración de punto de acupuntura
+infiltración de punto gatillo con esteroide
+infiltración en tejido celular subcutáneo
+infiltración intradérmica
+infiltración intramuscular
+infiltración leucémica de células T de la piel
+infiltración leucémica de la piel (leucemia linfoblástica de células T)
+infiltración leucémica de la piel (leucemia linfocítica crónica de células T)
+infiltración leucémica de la piel (leucemia prolinfocítica de células T)
+infiltración leucémica de piel en la tricoleucemia
+infiltración leucémica de piel en leucemia mieloide
+infiltración leucémica de piel en leucemia mieloide aguda
+infiltración leucémica de piel en leucemia mieloide crónica
+infiltración leucémica de órbita
+infiltrado corneal relacionado con lentes de contacto
+infiltrados subepiteliales por herpes simple
+infiltrados subepiteliales por herpes zóster
+infiltration of vesicant
+infiltration of vesicant chemotherapy
+inyección
+inyección en la piel
+magnetic resonance imaging of heart for morphology: left ventricle myocardium infiltrated
+magnetic resonance imaging of heart for morphology: left ventricle myocardium infiltrated hyper-reflective
+magnetic resonance imaging of heart for morphology: left ventricle myocardium infiltrated hypo-reflective
+magnetic resonance imaging of heart for morphology: right ventricle myocardium infiltrated
+magnetic resonance imaging of heart for morphology: right ventricle myocardium infiltrated hyper-reflective
+magnetic resonance imaging of heart for morphology: right ventricle myocardium infiltrated hypo-reflective
+magnetic resonance imaging of liver: diffuse enlargement with fatty infiltration
+magnetic resonance imaging of liver: focal enlargement of liver with fatty infiltration
+no se observa infiltración adiposa
+parasitology
+psychology
+radioquimioterapia por infiltración local
+radioterapia por infiltración de tejido
+skin infiltration
+valor de mecanismo de diseminación de enfermedad
+Αναισθησία και συναφείς επεμβάσεις
+Анестезия и связанные с ней процедуры
+التخدير والإجراءات المصاحبة
+リンパ球浸潤
+全身徴候および症状ＮＥＣ
+麻酔および関連手技
+마취 및 동류 시술
+ﾘﾝﾊﾟｷｭｳｼﾝｼﾞｭﾝ

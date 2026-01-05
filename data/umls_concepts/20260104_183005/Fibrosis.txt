@@ -1,0 +1,158 @@
+(Fibrosing alveolitis: [idiopathic] or [cryptogenic]) or (Hamman - Rich syndrome)
+Aortic valve fibrosis
+BARDET-BIEDL SYNDROME 1
+CARDIOMYOPATHY, DILATED, 1AA, WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 15
+CDISC SEND Terminology
+CONGENITAL DISORDER OF GLYCOSYLATION, TYPE It
+Cardiomiopatia (SMQ)
+Cardiomyopathia (SMQ)
+Cardiomyopathie (SMQ)
+Cardiomyopathy (SMQ)
+Conditions tested for in this newborn screening study:ID:Pt:Bld.dot:Nom
+Cystic Fibrosis
+Cystic fibrosis newborn screening comment-discussion:Txt:Pt:Bld.dot:Nar
+Cystic fibrosis newborn screening comment/discussion
+Cystic fibrosis newborn screening panel:-:Pt:^Patient:-
+Cystic fibrosis not suspected
+Cystic fibrosis with gastritis and megaloblastic anemia syndrome
+Cystic fibrosis with other intestinal manifestations
+Diabetes mellitus due to cystic fibrosis
+Diseases of mediastinum, not elsewhere classified
+Endomyocardial Fibrosis
+Endomyocardial fibrosis
+Exacerbation of idiopathic pulmonary fibrosis
+FIBROSIS
+Fibrose retroperitoneal (SMQ)
+Fibrose rétropéritonéale (SMQ)
+Fibrosi polmonare idiopatica esacerbata
+Fibrosi retroperitoneale (SMQ)
+Fibrosis
+Fibrosis Of Extraocular Muscles, Congenital, 3A, with or without Extraocular Involvement
+Fibrosis of Extraocular Muscles, Congenital, 3B
+Fibrosis of Extraocular Muscles, Congenital, 3C
+Fibrosis of cardiac pacemaker electrode
+Fibrosis of subcutaneous tissue
+Fibrosis retroperitoneal (SMQ)
+Fibrosis, Liver
+Fibrosis, NOS
+Fibrous mediastinitis caused by radiation
+Follicular hamartoma alopecia cystic fibrosis
+GALLBLADDER DISEASE 1
+GLYCOGEN STORAGE DISEASE IXc
+Hepatic Fibrosis, Early Fibrosis
+Hepatic failure, fibrosis and cirrhosis and other liver damage-related conditions (SMQ)
+Hepatic fibrosis
+Hepatic fibrosis, advanced fibrosis
+Hepatic fibrosis, early fibrosis
+Hepatic fibrosis, stage F1 or stage F2
+Hepatic fibrosis, stage F3
+Idiopathic Interstitial Pneumonias
+Idiopathic Pulmonary Fibrosis
+Idiopathic interstitial pneumonia
+Idiopathic interstitial pneumonitis
+Idiopathische interstitielle Pneumonien
+Idiopathiás pulmonális fibrosis exacerbatiója
+Idiopatisk interstitiel pneumoni
+Idiopatisk interstitiell pneumoni
+Insufficienza epatica, fibrosi, cirrosi e altre condizioni correlate a danni del fegato (SMQ)
+Insuffisance hépatique, fibrose et cirrhose et autres affections assoc à une lésion hépatique (SMQ)
+Insuficiencia, fibrosis y cirrosis hepática y otras enferm asociadas con afecciones del hígado (SMQ)
+Insuficiência hepática, fibrose e cirrose e outras condições relacionadas com lesões hepáticas (SMQ)
+Interstitial lung disease (SMQ)
+Interstitiële longziekte (SMQ)
+Jaterní selhání, fibróza a cirhóza a ostatní stavy spojené s poškozením jater (SMQ)
+Kardiomiopatia (SMQ)
+Kardiomiopatija (SMQ)
+Kardiomiopātija (SMQ)
+Kardiomyopathie (SMQ)
+Kardiomyopati (SMQ)
+Kardiomyopatia (SMQ)
+Kardiomyopatie (SMQ)
+Kardiomüopaatia (SMQ)
+Korean Standard Classification of Disease Version 5
+Leberversagen, Fibrose und Zirrhose und andere durch Leberschaden bedingte Erkrankungen (SMQ)
+Leverfalen, -fibrose en -cirrose en andere leverbeschadiginggerelateerde aandoeningen (SMQ)
+Liver disease due to cystic fibrosis
+Lubani Al Saleh Teebi syndrome
+Lung: [cirrhosis of] or [postinflammatory pulmonary fibrosis]
+MECKEL SYNDROME, TYPE 6
+MRI of heart for morphology: pericardium thickened
+Maladie pulmonaire interstitielle (SMQ)
+Malattia polmonare interstiziale (SMQ)
+Mediastinal Fibrosis
+Miocardiopatía (SMQ)
+Mitral sub-valve apparatus fibrosis
+Májelégtelenség, fibrosis és cirrhosis és egyéb májkárosodással összefüggő körülmények (SMQ)
+NPHP3-related Meckel-like syndrome
+Nasal potential difference test
+Neumonías Intersticiales Idiopáticas
+Newborn conditions with equivocal markers:Prid:Pt:Bld.dot:Nom
+Newborn conditions with positive markers:Prid:Pt:Bld.dot:Nom
+Other diseases of mediastinum, NEC in ICD9CM
+Other diseases of mediastinum, not elsewhere classified
+Other specified and unspecified liver disease
+Pneumonias Intersticiais Idiopáticas
+Pneumopathies interstitielles idiopathiques
+Polmonite interstiziale idiopatica
+Pulmonary Fibrosis
+RIDDLE SYNDROME
+Radiation Fibrosis Syndrome
+Renal hepatic pancreatic dysplasia
+Retroperitoneal fibrosis
+Retroperitoneal fibrosis (SMQ)
+Retroperitoneale Fibrose (SMQ)
+Retroperitoneale fibrose (SMQ)
+Retroperitonealis fibrosis (SMQ)
+Retroperitoneální fibróza (SMQ)
+SARCOIDOSIS, SUSCEPTIBILITY TO, 2
+Stage 3 hepatic fibrosis
+Syndrome de fibrose radio-induite
+Síndrome da Fibrose por Radiação
+Thorax
+Tropical endomyocardial fibrosis
+Unacceptable PDX
+Zapalenie płuc śródmiąższowe idiopatyczne
+Zespół zwłóknienia popromiennego
+biopsy of left ventricle of heart fibrotic tissue
+biopsy of right ventricle of heart fibrotic tissue
+cardiac MRI for morphology: right atrium myocardium thickened
+cystic fibrosis with gastritis and megaloblastic anemia syndrome
+diabetes mellitus concomitante con fibrosis quística y debida a ella
+diabetes mellitus por fibrosis quística
+displasia hepática, pancreática y renal
+enfermedad hepática por fibrosis quística
+fibrosis
+fibrosis de tejido celular subcutáneo
+fibrosis de válvula aórtica
+fibrosis en la región del electrodo del marcapasos cardíaco
+fibrosis endomiocárdica
+fibrosis endomiocárdica tropical
+history
+idiopatické intersticiální pneumonie
+mCode Elixhauser Mild Liver Disease Value Set
+mCode Non-Neoplastic Disease/Finding
+mCode Terminology
+mediastinitis fibrosa causada por radiación
+mitral stenosis with pulmonary fibrosis
+neumonitis intersticial idiopática
+newborn screen cystic fibrosis, comment-discussion
+nintedanib
+parasitology
+prueba de diferencia de potencial nasal
+pulmonary interstitial lung disorders
+syndrom radiační fibrózy
+síndrome de fibrosis quística con gastritis y anemia megaloblástica
+síndrome similar al síndrome de Meckel relacionado con nefrocistina 3
+Μυοκαρδιοπάθεια (SMQ)
+Кардиомиопатия (SMQ)
+ПНЕВМОНИИ ИДИОПАТИЧЕСКИЕ ИНТЕРСТИЦИАЛЬНЫЕ
+Ретроперитонеальный фиброз (SMQ)
+СИНДРОМ ЛУЧЕВОГО ФИБРОЗА
+اعتِلاَل عَضَل القَلب (SMQ)
+後腹膜線維症（ＳＭＱ）
+心筋症（ＳＭＱ）
+肝不全、肝線維症、肝硬変およびその他の肝細胞障害（ＳＭＱ）
+肺炎-特発性間質性
+심근 병증(SMQ)
+후복막 섬유증(SMQ)

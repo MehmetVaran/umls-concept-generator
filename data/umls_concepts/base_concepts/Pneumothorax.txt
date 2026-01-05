@@ -1,0 +1,44 @@
+Chest wall
+Clavicle
+Costophrenic angle
+Diaphragm
+Heart
+Lung (collapsed)
+Lung apex
+Mediastinum
+Pleural cavity
+Ribs
+Trachea
+Visible pleural line
+Visible visceral pleural line
+Absence of lung markings beyond the pleural line
+Absence of vascular markings beyond the pleural line
+Deep sulcus sign (in supine patients)
+Deep sulcus sign (in supine position)
+Depressed hemidiaphragm
+Flattened diaphragm on the affected side
+Flattening of the diaphragm
+Hyperexpansion of the chest
+Hyperlucency (increased radiolucency) of the affected hemithorax
+Increased intercostal spaces on the affected side
+Increased radiolucency on the affected side
+Mediastinal shift (in tension pneumothorax)
+Rib cage expansion on the affected side
+Subcutaneous emphysema
+Subcutaneous emphysema (in some cases)
+Tracheal deviation (in tension pneumothorax)
+Pneumothorax
+Chest condition
+Disease of the respiratory system
+Disease of the thoracic cavity
+Health condition
+Lung disease
+Lung disorder
+Medical condition
+Pleural disorder
+Pulmonary condition
+Respiratory condition
+Respiratory disorder
+Respiratory system disease
+Thoracic condition
+Thoracic disorder

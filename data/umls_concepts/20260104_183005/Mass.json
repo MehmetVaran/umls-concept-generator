@@ -1,0 +1,1522 @@
+{
+  "Mass": {
+    "disease": "Mass",
+    "candidate_concepts": [
+      {
+        "cui": "C0577559",
+        "name": "Mass of body structure",
+        "score": null,
+        "semantic_types": [
+          "Finding"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C3152252",
+        "name": "Molecular Mass",
+        "score": null,
+        "semantic_types": [
+          "Quantitative Concept"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0577573",
+        "name": "Mass of body region",
+        "score": null,
+        "semantic_types": [
+          "Finding"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1306372",
+        "name": "Mass, a measure of quantity of matter",
+        "score": null,
+        "semantic_types": [
+          "Quantitative Concept"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1546709",
+        "name": "Specimen Source Codes - Mass",
+        "score": null,
+        "semantic_types": [
+          "Intellectual Product"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1414542",
+        "name": "FBN1 gene",
+        "score": null,
+        "semantic_types": [
+          "Gene or Genome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C2700045",
+        "name": "FBN1 wt Allele",
+        "score": null,
+        "semantic_types": [
+          "Gene or Genome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0024103",
+        "name": "Mass in breast",
+        "score": null,
+        "semantic_types": [
+          "Finding"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0037813",
+        "name": "Mass Spectrometry",
+        "score": null,
+        "semantic_types": [
+          "Laboratory Procedure"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0000734",
+        "name": "Abdominal mass",
+        "score": null,
+        "semantic_types": [
+          "Finding"
+        ],
+        "definition": null,
+        "sources": []
+      }
+    ],
+    "related_concepts": {
+      "C0577559": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C173343",
+          "name": "Nasopharyngeal Hairy Polyp",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/432081008",
+          "name": "Mass of psoas muscle",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/432081008",
+          "name": "masa del músculo psoas",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/711482008",
+          "name": "Cerebroretinal microangiopathy with calcifications and cysts",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/711482008",
+          "name": "microangiopatía cerebrorretiniana con calcificaciones y quistes",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/431029005",
+          "name": "Mass of subcutaneous tissue of upper limb",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/431029005",
+          "name": "masa de tejido subcutáneo de miembro superior",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C83474",
+          "name": "Polyp Tip",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/431041003",
+          "name": "Mass of wrist joint",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/431041003",
+          "name": "masa de articulación de muñeca",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C77529",
+          "name": "CDISC SEND Biospecimens Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/444141002",
+          "name": "Thoracoscopic excision of mass of pericardium",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/444141002",
+          "name": "resección toracoscópica de masa de pericardio",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C77526",
+          "name": "CDISC SEND Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443360006",
+          "name": "Fine needle aspiration biopsy of mass of scalp",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/443360006",
+          "name": "biopsia de masa de cuero cabelludo por aspiración con aguja fina",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443359001",
+          "name": "Fine needle aspiration biopsy of mass of parotid salivary gland",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/443359001",
+          "name": "biopsia de masa de glándula parótida por aspiración con aguja fina",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443219002",
+          "name": "Fine needle aspiration biopsy of superficial mass of thyroid",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/443219002",
+          "name": "biopsia de masa superficial de glándula tiroides por aspiración con aguja fina",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/440299000",
+          "name": "Mass of thoracic structure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/440299000",
+          "name": "masa de estructura torácica",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445558005",
+          "name": "Polycystic mass of uterine adnexa",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/445558005",
+          "name": "masa poliquística de anexos uterinos",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445039006",
+          "name": "Mass of uterine adnexa",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C3152252": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C75764",
+          "name": "Kind of Quantity",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C43246",
+          "name": "Mass",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C1306372",
+          "name": "Mass, a measure of quantity of matter",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0678550",
+          "name": "atomic mass",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C176811",
+          "name": "Physicochemical Property",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0484084",
+          "name": "molecular weight",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0026385",
+          "name": "Molecular Weight",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0577573": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/271475004",
+          "name": "neoplasia benigna de costillas, esternón y/o clavícula",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/721812005",
+          "name": "Cyst of paramesonephric duct",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/721812005",
+          "name": "quiste de conducto paramesonéfrico",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/361198004",
+          "name": "Sarcoid arthritis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/127030001",
+          "name": "Neoplasm of glomus jugulare",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/127030001",
+          "name": "neoplasia del glomo yugular",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/128464009",
+          "name": "neoplasia de cartílago articular",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/128464009",
+          "name": "Neoplasm of articular cartilage",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/204921008",
+          "name": "Cyst of mesonephric duct",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/204921008",
+          "name": "quiste de conducto mesonéfrico",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/26315-2",
+          "name": "Guidance for needle localization of mass:Find:Pt:Breast.bilateral:Doc:MG",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/26316-0",
+          "name": "Guidance for needle localization of mass:Find:Pt:Breast.left:Doc:MG",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/26317-8",
+          "name": "Guidance for needle localization of mass:Find:Pt:Breast.right:Doc:MG",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/24595-1",
+          "name": "Guidance for needle localization of mass:Find:Pt:Breast:Doc:MG",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/309524007",
+          "name": "masa del tronco",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A1294137",
+          "name": "Mass of trunk",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/309524007",
+          "name": "Mass of trunk",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A1293168",
+          "name": "Mass of upper limb",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A1293108",
+          "name": "Mass of lower limb",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/281464006",
+          "name": "Subchondral hematoma",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/281464006",
+          "name": "hematoma subcondral",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0011954",
+          "name": "Lump",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/300848003",
+          "name": "tumoración de estructura corporal",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/4147007",
+          "name": "Mass",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/300848003",
+          "name": "Mass of body structure",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1306372": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443245006",
+          "name": "Estimated weight using Broselow Luten pediatric weight estimation",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/443245006",
+          "name": "peso calculado con la estimación de peso pediátrico de Broselow Luten",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56077-1",
+          "name": "Body weight^pre current pregnancy:Mass:Pt:^Patient:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56078-9",
+          "name": "Weight gain^during current pregnancy:Mass:Pt:^Patient:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56079-7",
+          "name": "Body weight^pre most recent pregnancy:Mass:Pt:^Patient:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56080-5",
+          "name": "Weight gain^during most recent pregnancy:Mass:Pt:^Patient:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56083-9",
+          "name": "Body weight^XXX time ago:Mass:Pt:^Patient:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/57015-0",
+          "name": "Lactulose.PO:Mass:Pt:Dose:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/57067-1",
+          "name": "Body weight:Mass:Pt:^Fetus:Qn:Estimated by palpation",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56056-5",
+          "name": "Body weight^at birth:Mass:Pt:^Patient:Qn:Reported",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56069-8",
+          "name": "Body weight.max:Mass:Pt:^Patient:Qn:Reported",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56092-0",
+          "name": "Body weight^at birth:Mass:Pt:^Patient:Qn:GNWCH",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/56093-8",
+          "name": "Body weight^at birth:Mass:Pt:^Patient:Qn:NVSS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/59574-4",
+          "name": "Body mass index:Prctl:Pt:^Patient:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/59575-1",
+          "name": "Body mass index:Prctl:Pt:^Patient:Qn:Per age",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/59576-9",
+          "name": "Body mass index:Prctl:Pt:^Patient:Qn:Per age and sex",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/55206-7",
+          "name": "Platelet mass (Bld) [Volume fraction]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/58229-6",
+          "name": "Body weight^when specimen taken:Mass:Pt:^Patient:Qn:Measured",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/55731-4",
+          "name": "Inject Rh immune globulin:Mass:Pt:Dose:Qn",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445541000",
+          "name": "Dry body weight",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/445541000",
+          "name": "peso corporal seco",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/4158-2",
+          "name": "ceFAZolin (Dose) [Mass]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/4209-3",
+          "name": "clomiPRAMINE (Dose) [Mass]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/32607-4",
+          "name": "Clorazepate (Dose) [Mass]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/4312-5",
+          "name": "Mesantoin (Dose) [Mass]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1546709": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A8315415",
+          "name": "Specimen Source Codes",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1414542": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24598824",
+          "name": "FBN1, TRP1570CYS, 4710G-T",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24573872",
+          "name": "FBN1, TRP1570CYS, 4710G-C",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24615477",
+          "name": "FBN1, CYS1564SER",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24611293",
+          "name": "FBN1, CYS1577GLY",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24577960",
+          "name": "FBN1, 302.5-KB DEL",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2698642",
+          "name": "OTC wt Allele",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C75337",
+          "name": "FBN1 wt Allele",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2700045",
+          "name": "FBN1 wt Allele",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24590472",
+          "name": "FBN1, CYS1086TYR",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24615476",
+          "name": "FBN1, ARG485CYS",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/49735-4",
+          "name": "FBN1 gene targeted mutation analysis:Find:Pt:Bld/Tiss:Doc:Molgen",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2228759",
+          "name": "FBN1 gene (lab test)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24577958",
+          "name": "FBN1, ARG1137PRO",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24611290",
+          "name": "FBN1, CYS2307SER",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24573871",
+          "name": "FBN1, 366-BP DEL",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24565665",
+          "name": "FBN1, G8268A, TRP2756TER",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24611291",
+          "name": "FBN1, CYS1249SER",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24627756",
+          "name": "FBN1, CYS1663ARG",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24607147",
+          "name": "FBN1, CYS2221SER",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24619565",
+          "name": "FBN1, TYR2113TER, EX51DEL",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24619566",
+          "name": "FBN1, ASN2144SER",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24598820",
+          "name": "FBN1, ASN548ILE",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24586341",
+          "name": "FBN1, ASP723ALA",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24607148",
+          "name": "FBN1, 4-BP INS, NT5138",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24607149",
+          "name": "FBN1, 83-BP DEL",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C2700045": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C1869114",
+          "name": "Weill-Marchesani Syndrome, Autosomal Recessive",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C26502",
+          "name": "15q21.1",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C28486",
+          "name": "Cell Movement",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C75336",
+          "name": "FBN1 Gene",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C1414542",
+          "name": "FBN1 gene",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C41514",
+          "name": "Cell Adhesion Process",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C16402",
+          "name": "Cell Growth",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0265313",
+          "name": "Weill-Marchesani syndrome",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C17729",
+          "name": "Organogenesis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0244756",
+          "name": "fibrillin-1",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C14225",
+          "name": "Human",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C17260",
+          "name": "Wound Repair",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0024796",
+          "name": "Marfan Syndrome",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C4721845",
+          "name": "Marfan Syndrome, Type I",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C16879",
+          "name": "Morphogenesis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C91522",
+          "name": "TGF-beta Signaling Pathway KEGG",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0024103": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16344698",
+          "name": "Korean Standard Classification of Disease Version 5",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C40374",
+          "name": "Microinvasive Breast Carcinoma",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/440299000",
+          "name": "Mass of thoracic structure",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/440299000",
+          "name": "masa de estructura torácica",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/646",
+          "name": "rapidly growing breast lump",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225580",
+          "name": "ultrasound of breast: mass #1 of inferior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225582",
+          "name": "ultrasound of breast: solid mass #1 of inferior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225583",
+          "name": "ultrasound of breast: mass #2 of inferior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225585",
+          "name": "ultrasound of breast: solid mass #2 of inferior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225586",
+          "name": "ultrasound of breast: mass #3 of inferior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225588",
+          "name": "ultrasound of breast: solid mass #3 of inferior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225598",
+          "name": "ultrasound of breast: mass #1 of inferior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225600",
+          "name": "ultrasound of breast: solid mass #1 of inferior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225601",
+          "name": "ultrasound of breast: mass #2 of inferior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225603",
+          "name": "ultrasound of breast: solid mass #2 of inferior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225604",
+          "name": "ultrasound of breast: mass #3 of inferior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225606",
+          "name": "ultrasound of breast: solid mass #3 of inferior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225532",
+          "name": "ultrasound of breast: mass of inferior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225534",
+          "name": "ultrasound of breast: mass of inferior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225531",
+          "name": "ultrasound of breast: mass of superior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225533",
+          "name": "ultrasound of breast: mass of superior medial quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225571",
+          "name": "ultrasound of breast: mass #1 of superior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225573",
+          "name": "ultrasound of breast: solid mass #1 of superior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225574",
+          "name": "ultrasound of breast: mass #2 of superior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/225576",
+          "name": "ultrasound of breast: solid mass #2 of superior lateral quadrant of left breast",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0037813": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C85492",
+          "name": "CDISC SDTM Method Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/323532",
+          "name": "urine toxicology screen by gas chromatography or mass spectrometry",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/D002623",
+          "name": "Chemistry Techniques, Analytical",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHFRE/D002623",
+          "name": "Techniques de chimie analytique",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHGER/D002623",
+          "name": "Chemie-Technik, analytische",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHITA/D002623",
+          "name": "Tecniche di chimica analitica",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOR/D002623",
+          "name": "Técnicas de Química Analítica",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHSPA/D002623",
+          "name": "Técnicas de Química Analítica",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHRUS/D002623",
+          "name": "ХИМИЧЕСКИЕ МЕТОДЫ АНАЛИТИЧЕСКИЕ",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHSCR/D002623",
+          "name": "Not Translated[Chemistry Techniques, Analytical]",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/D002623",
+          "name": "chemické techniky analytické",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHSWE/D002623",
+          "name": "Analytisk kemi, tekniker",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOL/D002623",
+          "name": "Metody chemiczne analityczne",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHNOR/D002623",
+          "name": "Analytiske kjemiske teknikker",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHJPN/D002623",
+          "name": "分析化学技法",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107535",
+          "name": "column chromatography-mass spectrometry, qualitative",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107536",
+          "name": "column chromatography-mass spectrometry, quantitative",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107537",
+          "name": "column chromatography-mass spectrometry using stable isotope dilution, quantitative",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107539",
+          "name": "column chromatography-mass spectrometry using stable isotope dilution, quantitative, multiple analysis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107538",
+          "name": "column chromatography-mass spectrometry using stable isotope dilution, quantitative, single analysis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107534",
+          "name": "column chromatography-mass spectrometry",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107548",
+          "name": "mass spectrometry and tandem mass spectrometry qualitative",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/107549",
+          "name": "mass spectrometry and tandem mass spectrometry quantitative",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C66830",
+          "name": "CDISC SDTM Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0000734": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/R19.00",
+          "name": "Intra-abdominal and pelvic swelling, mass and lump, unspecified site",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445039006",
+          "name": "Mass of uterine adnexa",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/445039006",
+          "name": "masa de anexos uterinos",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/167737",
+          "name": "multiple abdominal masses",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C96947",
+          "name": "Intrahepatic Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C40079",
+          "name": "Ovarian Clear Cell Adenocarcinofibroma",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/296242",
+          "name": "periumbilical mass",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/427702008",
+          "name": "Mass of duodenum",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/427702008",
+          "name": "masa duodenal",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C27390",
+          "name": "Ovarian Small Cell Carcinoma",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C67092",
+          "name": "Ovarian Serous Adenocarcinofibroma",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C40034",
+          "name": "Ovarian Mucinous Adenocarcinofibroma",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C40061",
+          "name": "Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0418567",
+          "name": "HEPATITIS",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0418651",
+          "name": "HEPATOMEGALY",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13935",
+          "name": "abdominal x-ray, AP view: calcified mass",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13977",
+          "name": "abdominal x-ray, AP view: calcified mass suggestive of fibroid",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13934",
+          "name": "abdominal x-ray, AP view: cystic mass",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13930",
+          "name": "abdominal x-ray, AP view: flank mass",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13929",
+          "name": "abdominal x-ray, AP view: mass of left lower quadrant",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13926",
+          "name": "abdominal x-ray, AP view: mass of left upper quadrant",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13924",
+          "name": "Abdominal X-Ray, AP View: Mass ___cm",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13933",
+          "name": "abdominal x-ray, AP view: multiple masses",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/7413",
+          "name": "abdominal mass by exam",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2230335",
+          "name": "abdominal mass by exam",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1278 @@
+{
+  "Cardiomegaly": {
+    "disease": "Cardiomegaly",
+    "candidate_concepts": [
+      {
+        "cui": "C0018800",
+        "name": "Cardiomegaly",
+        "score": null,
+        "semantic_types": [
+          "Finding"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0265873",
+        "name": "Congenital cardiomegaly",
+        "score": null,
+        "semantic_types": [
+          "Congenital Abnormality",
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C3532171",
+        "name": "Fetal cardiomegaly",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C2733179",
+        "name": "Hypertrophic cardiomegaly",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0741939",
+        "name": "CARDIOMEGALY NEW",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0694541",
+        "name": "Cardiomegaly due to hypertension",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C3178778",
+        "name": "Cardiomegaly, Exercise-Induced",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0856198",
+        "name": "Cardiomegaly (excl hypertensive)",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1391993",
+        "name": "glycogen; cardiomegaly (manifestation)",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0239012",
+        "name": "CHEST XRAY CARDIOMEGALY",
+        "score": null,
+        "semantic_types": [
+          "Finding"
+        ],
+        "definition": null,
+        "sources": []
+      }
+    ],
+    "related_concepts": {
+      "C0018800": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26952721",
+          "name": "SPONDYLOMETAPHYSEAL DYSPLASIA, MEGARBANE-DAGHER-MELKI TYPE",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A36773430",
+          "name": "AMYLOIDOSIS, HEREDITARY SYSTEMIC 1",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16619546",
+          "name": "MUCOLIPIDOSIS II ALPHA/BETA",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16619980",
+          "name": "CRANIOFACIOFRONTODIGITAL SYNDROME",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443762000",
+          "name": "Hypertrophic cardiomegaly",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443762000",
+          "name": "Hypertrophic cardiomegaly",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443762000",
+          "name": "Hypertrophic cardiomegaly",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/443762000",
+          "name": "cardiomegalia hipertrófica",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443414005",
+          "name": "Cor bovinum",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443414005",
+          "name": "Cor bovinum",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/443414005",
+          "name": "Cor bovinum",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/443414005",
+          "name": "corazón bovino",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2733397",
+          "name": "Cor bovinum (disorder)",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/444718001",
+          "name": "Bilateral enlargement of atria",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/444718001",
+          "name": "Bilateral enlargement of atria",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/442021009",
+          "name": "Enlargement",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/442021009",
+          "name": "agrandamiento",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000150",
+          "name": "Cardiomyopathy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000150",
+          "name": "Cardiomyopathy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000150",
+          "name": "Cardiomyopathy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000150",
+          "name": "Cardiomyopathy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000150",
+          "name": "Cardiomyopathy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000150",
+          "name": "Miocardiopatía (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000150",
+          "name": "Miocardiopatía (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000150",
+          "name": "Miocardiopatía (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0265873": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/442021009",
+          "name": "Enlargement",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/442021009",
+          "name": "agrandamiento",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0539602",
+          "name": "CONGENITAL ANOMALIES OF THE HEART",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/36043",
+          "name": "cardiomegaly",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/8186001",
+          "name": "corazón agrandado",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/8186001",
+          "name": "Cardiomegaly",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/255399007",
+          "name": "Congenital",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/255399007",
+          "name": "congénito",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0357988",
+          "name": "Heart, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0018787",
+          "name": "Heart",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/302509004",
+          "name": "Entire heart",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/302509004",
+          "name": "corazón [como un todo]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/308490002",
+          "name": "Pathological developmental process",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/308490002",
+          "name": "proceso de desarrollo patológico",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0763557",
+          "name": "Other specified heart anomalies",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/Q24.8",
+          "name": "Other specified congenital malformations of heart",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/Q24.8",
+          "name": "Other specified congenital malformations of heart",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/Q24.8",
+          "name": "Other specified congenital malformations of heart",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/Q24.8",
+          "name": "Other specified congenital malformations of heart",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A8348288",
+          "name": "Other specified congenital anomalies of heart",
+          "relation_label": "RL",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD9CM/746.89",
+          "name": "Other specified congenital anomalies of heart",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0678451",
+          "name": "Congenital hypertrophy, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0332887",
+          "name": "Congenital hypertrophy",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/204392003",
+          "name": "Congenital cardiomegaly",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/48121000",
+          "name": "Congenital cardiomegaly",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C3532171": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/442021009",
+          "name": "Enlargement",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/442021009",
+          "name": "agrandamiento",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/8186001",
+          "name": "corazón agrandado",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/8186001",
+          "name": "Cardiomegaly",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/302509004",
+          "name": "Entire heart",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/302509004",
+          "name": "corazón [como un todo]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/I42.4",
+          "name": "Endocardial fibroelastosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/303112003",
+          "name": "Fetal period",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/303112003",
+          "name": "período fetal",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/O36.8990",
+          "name": "Maternal care for other specified fetal problems, unspecified trimester, not applicable or unspecified",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/473383000",
+          "name": "Abnormality of fetal heart",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/473383000",
+          "name": "anomalía del corazón fetal",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C2733179": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/I51.7",
+          "name": "Cardiomegaly",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/I51.7",
+          "name": "Cardiomegaly",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/8186001",
+          "name": "corazón agrandado",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/8186001",
+          "name": "Cardiomegaly",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/56246009",
+          "name": "Hypertrophy",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/56246009",
+          "name": "hipertrofia",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/302509004",
+          "name": "Entire heart",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/302509004",
+          "name": "corazón [como un todo]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_VET/358881000009109",
+          "name": "Hypertrophic cardiomegaly due to hypertension",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0741939": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0418118",
+          "name": "HEART",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0694541": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/I11.9",
+          "name": "Hypertensive heart disease without heart failure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/442021009",
+          "name": "Enlargement",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/442021009",
+          "name": "agrandamiento",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000147",
+          "name": "Hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000147",
+          "name": "Hipertensión (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000147",
+          "name": "Hypertensie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000147",
+          "name": "Ipertensione (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000147",
+          "name": "Hypertonie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000147",
+          "name": "Hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000147",
+          "name": "Hipertensão (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000147",
+          "name": "Hypertenze (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000147",
+          "name": "高血圧（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000147",
+          "name": "Hypertonia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000147",
+          "name": "Гипертензия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000147",
+          "name": "고혈압(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000147",
+          "name": "Hipertensão (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000147",
+          "name": "Hypertoni (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000147",
+          "name": "Hipertensija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000147",
+          "name": "Υπέρταση (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000147",
+          "name": "Nadciśnienie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000147",
+          "name": "ارتفاع ضغط الدم (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000147",
+          "name": "Hüpertensioon (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000147",
+          "name": "Hypertensio (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHRV/20000147",
+          "name": "Hipertenzija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000147",
+          "name": "Hipertenzija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C3178778": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0688908",
+          "name": "Disorder of heart",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/56265001",
+          "name": "Heart disease",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/56265001",
+          "name": "cardiopatía",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/I51.7",
+          "name": "Cardiomegaly",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/I51.7",
+          "name": "Cardiomegaly",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0018800",
+          "name": "Cardiomegaly",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000276",
+          "name": "immunology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000235",
+          "name": "genetics",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/80891009",
+          "name": "Heart structure",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/80891009",
+          "name": "estructura del corazón",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/10007609",
+          "name": "Segni e sintomi cardiaci NCA",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/10007609",
+          "name": "心徴候および症状ＮＥＣ",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/10007609",
+          "name": "Srdeční příznaky NEC",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/10007609",
+          "name": "Cardialis jelek és tünetek m.n.o.",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/10007609",
+          "name": "Cardiac signs and symptoms NEC",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/10007609",
+          "name": "Кардиологические проявления и симптомы, НКДР",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/10007609",
+          "name": "심장 징후 및 증상 NEC",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/10007609",
+          "name": "Sinais e sintomas cardíacos NCO",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/10007609",
+          "name": "Sirds slimības pazīmes un simptomi CNK",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/10007609",
+          "name": "Kardiella tecken och symtom som ej klassificeras på annan plats",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/10007609",
+          "name": "Καρδιακά σημεία και συμπτώματα ΔΑΤ",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/10007609",
+          "name": "Objawy podmiotowe i przedmiotowe serca NGI",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/10007609",
+          "name": "علامات وأعراض اضطرابات القلب، غير مصنف في موضع آخر",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/10007609",
+          "name": "Mujal klassifitseerimata südame haigusnähud ja -sümptomid",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/10007609",
+          "name": "Muualla luokittamattomat sydänperäiset löydökset ja oireet",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0856198": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000150",
+          "name": "Cardiomyopathy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000150",
+          "name": "Miocardiopatía (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000150",
+          "name": "Cardiomyopathie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000150",
+          "name": "Cardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000150",
+          "name": "Kardiomyopathie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000150",
+          "name": "Cardiomyopathie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000150",
+          "name": "Cardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000150",
+          "name": "Kardiomyopatie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000150",
+          "name": "心筋症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000150",
+          "name": "Cardiomyopathia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000150",
+          "name": "Кардиомиопатия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000150",
+          "name": "심근 병증(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000150",
+          "name": "Cardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000150",
+          "name": "Kardiomyopati (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000150",
+          "name": "Kardiomiopātija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000150",
+          "name": "Kardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000150",
+          "name": "Μυοκαρδιοπάθεια (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000150",
+          "name": "اعتِلاَل عَضَل القَلب (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000150",
+          "name": "Kardiomüopaatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000150",
+          "name": "Kardiomyopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000150",
+          "name": "Kardiomiopatija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHRV/20000150",
+          "name": "Kardiomiopatija, nespecificirana (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRISL/20000150",
+          "name": "Hjartavöðvakvilli (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A10208172",
+          "name": "Cardiomegalia",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A15758874",
+          "name": "Kardiomegalie",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1391993": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/E74.0",
+          "name": "Glycogen storage disease",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/E74.0",
+          "name": "Glycogen storage disease",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10ENG/MTHU014924",
+          "name": "cardiomegaly; glycogen (etiology)",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10ENG/MTHU014925",
+          "name": "cardiomegaly; glycogen (manifestation)",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10ENG/MTHU032387",
+          "name": "glycogen; cardiomegaly (etiology)",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10ENG/MTHU032388",
+          "name": "glycogen; cardiomegaly (manifestation)",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10DUT/MTHU014924",
+          "name": "cardiomegalie; glycogeen",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10DUT/MTHU014925",
+          "name": "cardiomegalie; glycogeen",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10DUT/MTHU032387",
+          "name": "glycogeen; cardiomegalie",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2ICD10DUT/MTHU032388",
+          "name": "glycogeen; cardiomegalie",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/I43.1",
+          "name": "Cardiomyopathy in metabolic diseases",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/I43.1",
+          "name": "Cardiomyopathy in metabolic diseases",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2EENG/T99",
+          "name": "Endocrine/metabolic/nutritional disease other",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2EENG/T99",
+          "name": "Endocrine/metabolic/nutritional disease other",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2EENG/K84",
+          "name": "Heart disease other",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2EENG/K84",
+          "name": "Heart disease other",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0239012": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0033141",
+          "name": "Cardiomyopathies, Primary",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ]
+    }
+  }
+}

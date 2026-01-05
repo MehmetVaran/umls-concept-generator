@@ -1,0 +1,1879 @@
+{
+  "Edema": {
+    "disease": "Edema",
+    "candidate_concepts": [
+      {
+        "cui": "C0013604",
+        "name": "Edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0034063",
+        "name": "Pulmonary Edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0006114",
+        "name": "Cerebral Edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0023052",
+        "name": "Laryngeal Edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0010037",
+        "name": "Corneal edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0085649",
+        "name": "Peripheral edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1850534",
+        "name": "Edema, generalized",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0242420",
+        "name": "Retinal Edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0235439",
+        "name": "Ankle edema (finding)",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0151205",
+        "name": "Periorbital edema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      }
+    ],
+    "related_concepts": {
+      "C0013604": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/342461000119105",
+          "name": "Edema of right upper eyelid",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/342461000119105",
+          "name": "edema de párpado superior derecho",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/342471000119104",
+          "name": "Edema of right lower eyelid",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/342471000119104",
+          "name": "edema de párpado inferior derecho",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/342491000119103",
+          "name": "Edema of left upper eyelid",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/342491000119103",
+          "name": "edema de párpado superior izquierdo",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/342501000119105",
+          "name": "Edema of left lower eyelid",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/342501000119105",
+          "name": "edema de párpado inferior izquierdo",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/333471000119109",
+          "name": "Edema of right orbit",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/333471000119109",
+          "name": "edema de órbita derecha",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/339081000119104",
+          "name": "Edema of left orbit",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/339081000119104",
+          "name": "edema de órbita izquierda",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/344831000119105",
+          "name": "Bilateral edema of orbits",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/344831000119105",
+          "name": "Bilateral edema of orbits",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/344831000119105",
+          "name": "edema de ambas órbitas",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/344831000119105",
+          "name": "edema de ambas órbitas",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/335791000119101",
+          "name": "Conjunctival edema of right eye",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/335791000119101",
+          "name": "edema de conjuntiva de ojo derecho",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/341401000119104",
+          "name": "Conjunctival edema of left eye",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/341401000119104",
+          "name": "edema conjuntival de ojo izquierdo",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/346651000119109",
+          "name": "Bilateral conjunctival edema",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/346651000119109",
+          "name": "Bilateral conjunctival edema",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/346651000119109",
+          "name": "edema conjuntival de ambos ojos",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/346651000119109",
+          "name": "edema conjuntival de ambos ojos",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/HPO/HP:0011032",
+          "name": "Abnormality of fluid regulation",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0034063": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16344698",
+          "name": "Korean Standard Classification of Disease Version 5",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0398067",
+          "name": "CONGESTIVE HEART FAILURE",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0398067",
+          "name": "CONGESTIVE HEART FAILURE",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0398067",
+          "name": "CONGESTIVE HEART FAILURE",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13731",
+          "name": "x-ray of chest: lungs pulmonary edema",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A13291921",
+          "name": "RESPIRATORY DISTRESS SYNDROME IN PREMATURE INFANTS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000004",
+          "name": "Herzinsuffizienz (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0006114": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000141",
+          "name": "Hyponatraemia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000141",
+          "name": "Hyponatraemia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000141",
+          "name": "Hyponatraemia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000141",
+          "name": "Hyponatraemia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000141",
+          "name": "Hiponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000141",
+          "name": "Hyponatriaemie / SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000141",
+          "name": "Hyponatriaemie / SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000141",
+          "name": "Hyponatriaemie / SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000141",
+          "name": "Hyponatriaemie / SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000141",
+          "name": "Iponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000141",
+          "name": "Iponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000141",
+          "name": "Iponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000141",
+          "name": "Iponatremia/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000141",
+          "name": "Hyponatremie/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000141",
+          "name": "Hyponatremie/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000141",
+          "name": "Hyponatremie/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000141",
+          "name": "Hyponatremie/SIADH (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000141",
+          "name": "低ナトリウム血症／ＳＩＡＤＨ（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0023052": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A33219769",
+          "name": "ANGIOEDEMA, HEREDITARY, 1",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C1963156",
+          "name": "Larynx Edema, CTCAE",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0010037": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A17458835",
+          "name": "CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 3",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/H18.2",
+          "name": "Other and unspecified corneal edema",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000156",
+          "name": "Corneal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000156",
+          "name": "Corneal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000156",
+          "name": "Corneal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000156",
+          "name": "Corneal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000156",
+          "name": "Corneal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000156",
+          "name": "Corneal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000156",
+          "name": "Trastornos de la córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000156",
+          "name": "Trastornos de la córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000156",
+          "name": "Trastornos de la córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000156",
+          "name": "Trastornos de la córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000156",
+          "name": "Trastornos de la córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000156",
+          "name": "Trastornos de la córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000156",
+          "name": "Afecções da córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000156",
+          "name": "Afecções da córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000156",
+          "name": "Afecções da córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000156",
+          "name": "Afecções da córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000156",
+          "name": "Afecções da córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000156",
+          "name": "Afecções da córnea (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000156",
+          "name": "Hoornvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000156",
+          "name": "Hoornvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000156",
+          "name": "Hoornvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000156",
+          "name": "Hoornvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000156",
+          "name": "Hoornvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0085649": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/430636002",
+          "name": "estructura de partes blandas de extremidad",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/430636002",
+          "name": "Structure of soft tissue of limb",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/439500002",
+          "name": "Lymphedema of limb",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/439500002",
+          "name": "linfedema de miembro",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445126005",
+          "name": "Edema of entire limb",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/445126005",
+          "name": "edema de miembro completo",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445471005",
+          "name": "Edema of extremity with extension to trunk",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/445471005",
+          "name": "edema de extremidad con extensión al tronco",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/1141974008",
+          "name": "No peripheral edema present",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/1141974008",
+          "name": "no se evidencia edema periférico",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0398067",
+          "name": "CONGESTIVE HEART FAILURE",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1850534": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000024",
+          "name": "Angio-oedeem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000024",
+          "name": "Angioedème (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000024",
+          "name": "Angiooedem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000024",
+          "name": "Angiooedem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000024",
+          "name": "Angiooedem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000024",
+          "name": "Angiooedem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000024",
+          "name": "Angiooedem (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000024",
+          "name": "Angioedema (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0242420": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/432789001",
+          "name": "Noncystoid edema of macula of retina",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000158",
+          "name": "Retinal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000158",
+          "name": "Retinal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000158",
+          "name": "Retinal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000158",
+          "name": "Retinal disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000158",
+          "name": "Trastornos retinianos (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000158",
+          "name": "Trastornos retinianos (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000158",
+          "name": "Trastornos retinianos (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000158",
+          "name": "Trastornos retinianos (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000158",
+          "name": "Afecções da retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000158",
+          "name": "Afecções da retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000158",
+          "name": "Afecções da retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000158",
+          "name": "Afecções da retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000158",
+          "name": "Netvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000158",
+          "name": "Netvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000158",
+          "name": "Netvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000158",
+          "name": "Netvliesaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000158",
+          "name": "Patologie della retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000158",
+          "name": "Patologie della retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000158",
+          "name": "Patologie della retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000158",
+          "name": "Patologie della retina (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000158",
+          "name": "Affections rétiniennes (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000158",
+          "name": "Affections rétiniennes (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000158",
+          "name": "Affections rétiniennes (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000158",
+          "name": "Affections rétiniennes (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0235439": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/248752",
+          "name": "swelling of talofibular ligament of right ankle",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A20278570",
+          "name": "MULTICENTRIC CARPOTARSAL OSTEOLYSIS SYNDROME",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/170665",
+          "name": "extracapsular swelling of right ankle",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/170669",
+          "name": "extracapsular swelling of both ankles",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000004",
+          "name": "Cardiac failure (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000004",
+          "name": "Hartfalen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000004",
+          "name": "Herzinsuffizienz (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000004",
+          "name": "Herzinsuffizienz (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000004",
+          "name": "Insufficienza cardiaca (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000004",
+          "name": "Insufficienza cardiaca (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000004",
+          "name": "Insuficiência cardíaca (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000004",
+          "name": "Insuficiência cardíaca (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000004",
+          "name": "Insuficiencia cardiaca (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000004",
+          "name": "Insuficiencia cardiaca (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000004",
+          "name": "Srdeční selhání (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000004",
+          "name": "Srdeční selhání (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000004",
+          "name": "心不全（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000004",
+          "name": "心不全（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000004",
+          "name": "Szívelégtelenség (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000004",
+          "name": "Szívelégtelenség (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000004",
+          "name": "Insuffisance cardiaque (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000004",
+          "name": "Insuffisance cardiaque (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000004",
+          "name": "Сердечная недостаточность (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0151205": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000179",
+          "name": "Periorbital and eyelid disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000179",
+          "name": "Periorbital and eyelid disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000179",
+          "name": "Periorbital and eyelid disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000179",
+          "name": "Periorbital and eyelid disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000179",
+          "name": "Trastornos periorbitarios y palpebrales (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000179",
+          "name": "Trastornos periorbitarios y palpebrales (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000179",
+          "name": "Trastornos periorbitarios y palpebrales (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000179",
+          "name": "Trastornos periorbitarios y palpebrales (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000179",
+          "name": "Anomalias periorbitais e das pálpebras (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000179",
+          "name": "Anomalias periorbitais e das pálpebras (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000179",
+          "name": "Anomalias periorbitais e das pálpebras (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000179",
+          "name": "Anomalias periorbitais e das pálpebras (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000179",
+          "name": "Affections périorbitaires et des paupières (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000179",
+          "name": "Affections périorbitaires et des paupières (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000179",
+          "name": "Affections périorbitaires et des paupières (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000179",
+          "name": "Affections périorbitaires et des paupières (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000179",
+          "name": "Patologie periorbitali e della palpebra (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000179",
+          "name": "Patologie periorbitali e della palpebra (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000179",
+          "name": "Patologie periorbitali e della palpebra (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000179",
+          "name": "Patologie periorbitali e della palpebra (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000179",
+          "name": "Periorbitale en ooglidaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000179",
+          "name": "Periorbitale en ooglidaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000179",
+          "name": "Periorbitale en ooglidaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000179",
+          "name": "Periorbitale en ooglidaandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000179",
+          "name": "Periorbitální poruchy a poruchy očních víček (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ]
+    }
+  }
+}

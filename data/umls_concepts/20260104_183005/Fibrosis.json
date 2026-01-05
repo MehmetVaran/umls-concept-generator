@@ -1,0 +1,1655 @@
+{
+  "Fibrosis": {
+    "disease": "Fibrosis",
+    "candidate_concepts": [
+      {
+        "cui": "C0016059",
+        "name": "Fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0010674",
+        "name": "Cystic Fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0034069",
+        "name": "Pulmonary Fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0035357",
+        "name": "Retroperitoneal fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0239946",
+        "name": "Fibrosis, Liver",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0553980",
+        "name": "Endomyocardial Fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0264573",
+        "name": "Mediastinal Fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C5384732",
+        "name": "Hepatic Fibrosis, Early Fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C5384733",
+        "name": "Hepatic fibrosis, advanced fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1800706",
+        "name": "Idiopathic Pulmonary Fibrosis",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      }
+    ],
+    "related_concepts": {
+      "C0016059": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/C567572",
+          "name": "Fibrosis Of Extraocular Muscles, Congenital, 3A, with or without Extraocular Involvement",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/C567666",
+          "name": "Fibrosis of Extraocular Muscles, Congenital, 3C",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/C567739",
+          "name": "Fibrosis of Extraocular Muscles, Congenital, 3B",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/715626008",
+          "name": "Tropical endomyocardial fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/715626008",
+          "name": "Tropical endomyocardial fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/715626008",
+          "name": "fibrosis endomiocárdica tropical",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/715626008",
+          "name": "fibrosis endomiocárdica tropical",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/763891005",
+          "name": "Renal hepatic pancreatic dysplasia",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/763891005",
+          "name": "displasia hepática, pancreática y renal",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/773737004",
+          "name": "NPHP3-related Meckel-like syndrome",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/773737004",
+          "name": "síndrome similar al síndrome de Meckel relacionado con nefrocistina 3",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/321655",
+          "name": "biopsy of left ventricle of heart fibrotic tissue",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/321662",
+          "name": "biopsy of right ventricle of heart fibrotic tissue",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/321643",
+          "name": "MRI of heart for morphology: pericardium thickened",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/321509",
+          "name": "cardiac MRI for morphology: right atrium myocardium thickened",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C77526",
+          "name": "CDISC SEND Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445156001",
+          "name": "Fibrosis of subcutaneous tissue",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/445156001",
+          "name": "fibrosis de tejido celular subcutáneo",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/D000087525",
+          "name": "Radiation Fibrosis Syndrome",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/D000087525",
+          "name": "syndrom radiační fibrózy",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOL/D000087525",
+          "name": "Zespół zwłóknienia popromiennego",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHFRE/D000087525",
+          "name": "Syndrome de fibrose radio-induite",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHRUS/D000087525",
+          "name": "СИНДРОМ ЛУЧЕВОГО ФИБРОЗА",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOR/D000087525",
+          "name": "Síndrome da Fibrose por Radiação",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHGER/D000087525",
+          "name": "Radiation Fibrosis Syndrome",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0010674": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16344698",
+          "name": "Korean Standard Classification of Disease Version 5",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/57131-5",
+          "name": "Newborn conditions with positive markers:Prid:Pt:Bld.dot:Nom",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/57707-2",
+          "name": "Cystic fibrosis newborn screening comment-discussion:Txt:Pt:Bld.dot:Nar",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/386047",
+          "name": "newborn screen cystic fibrosis, comment-discussion",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/LP97617-2",
+          "name": "Cystic fibrosis newborn screening comment/discussion",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/54078-1",
+          "name": "Cystic fibrosis newborn screening panel:-:Pt:^Patient:-",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/57719-7",
+          "name": "Conditions tested for in this newborn screening study:ID:Pt:Bld.dot:Nom",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/57720-5",
+          "name": "Newborn conditions with equivocal markers:Prid:Pt:Bld.dot:Nom",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/445212008",
+          "name": "Nasal potential difference test",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/445212008",
+          "name": "prueba de diferencia de potencial nasal",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/C537039",
+          "name": "Lubani Al Saleh Teebi syndrome",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/720401009",
+          "name": "Cystic fibrosis with gastritis and megaloblastic anemia syndrome",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/720401009",
+          "name": "síndrome de fibrosis quística con gastritis y anemia megaloblástica",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/415417",
+          "name": "cystic fibrosis with gastritis and megaloblastic anemia syndrome",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/C537071",
+          "name": "Follicular hamartoma alopecia cystic fibrosis",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/426705001",
+          "name": "diabetes mellitus concomitante con fibrosis quística y debida a ella",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/426705001",
+          "name": "diabetes mellitus concomitante con fibrosis quística y debida a ella",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/427022004",
+          "name": "Liver disease due to cystic fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/427022004",
+          "name": "enfermedad hepática por fibrosis quística",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/427089005",
+          "name": "Diabetes mellitus due to cystic fibrosis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/427089005",
+          "name": "diabetes mellitus por fibrosis quística",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/E84.19",
+          "name": "Cystic fibrosis with other intestinal manifestations",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/E84.19",
+          "name": "Cystic fibrosis with other intestinal manifestations",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/E84.19",
+          "name": "Cystic fibrosis with other intestinal manifestations",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/428273001",
+          "name": "Cystic fibrosis not suspected",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0034069": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16616358",
+          "name": "SARCOIDOSIS, SUSCEPTIBILITY TO, 2",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16612867",
+          "name": "RIDDLE SYNDROME",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/33745",
+          "name": "mitral stenosis with pulmonary fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/91145",
+          "name": "pulmonary interstitial lung disorders",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2004393",
+          "name": "Lung: [cirrhosis of] or [postinflammatory pulmonary fibrosis]",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000469",
+          "name": "parasitology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000042",
+          "name": "Interstitial lung disease (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000042",
+          "name": "Interstitial lung disease (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000042",
+          "name": "Interstitial lung disease (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000042",
+          "name": "Interstitial lung disease (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000042",
+          "name": "Interstitial lung disease (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000042",
+          "name": "Interstitiële longziekte (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000042",
+          "name": "Interstitiële longziekte (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000042",
+          "name": "Interstitiële longziekte (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000042",
+          "name": "Interstitiële longziekte (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000042",
+          "name": "Interstitiële longziekte (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000042",
+          "name": "Maladie pulmonaire interstitielle (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000042",
+          "name": "Maladie pulmonaire interstitielle (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000042",
+          "name": "Maladie pulmonaire interstitielle (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000042",
+          "name": "Maladie pulmonaire interstitielle (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000042",
+          "name": "Maladie pulmonaire interstitielle (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000042",
+          "name": "Malattia polmonare interstiziale (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000042",
+          "name": "Malattia polmonare interstiziale (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000042",
+          "name": "Malattia polmonare interstiziale (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0035357": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000469",
+          "name": "parasitology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000065",
+          "name": "Retroperitoneal fibrosis (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000065",
+          "name": "Retroperitoneal fibrosis (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000065",
+          "name": "Retroperitoneale fibrose (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000065",
+          "name": "Retroperitoneale fibrose (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000065",
+          "name": "Fibrose rétropéritonéale (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000065",
+          "name": "Fibrose rétropéritonéale (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000065",
+          "name": "Retroperitoneale Fibrose (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000065",
+          "name": "Retroperitoneale Fibrose (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000065",
+          "name": "Fibrosi retroperitoneale (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000065",
+          "name": "Fibrosi retroperitoneale (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000065",
+          "name": "Fibrosis retroperitoneal (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000065",
+          "name": "Fibrosis retroperitoneal (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000065",
+          "name": "Fibrose retroperitoneal (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000065",
+          "name": "Fibrose retroperitoneal (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000065",
+          "name": "Retroperitoneální fibróza (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000065",
+          "name": "Retroperitoneální fibróza (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000065",
+          "name": "後腹膜線維症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000065",
+          "name": "後腹膜線維症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000065",
+          "name": "Retroperitonealis fibrosis (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000065",
+          "name": "Retroperitonealis fibrosis (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000065",
+          "name": "Ретроперитонеальный фиброз (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000065",
+          "name": "Ретроперитонеальный фиброз (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000065",
+          "name": "후복막 섬유증(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0239946": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A17461413",
+          "name": "GLYCOGEN STORAGE DISEASE IXc",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A21233029",
+          "name": "CONGENITAL DISORDER OF GLYCOSYLATION, TYPE It",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16610717",
+          "name": "MECKEL SYNDROME, TYPE 6",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A11971953",
+          "name": "GALLBLADDER DISEASE 1",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A24566258",
+          "name": "BARDET-BIEDL SYNDROME 1",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000013",
+          "name": "Hepatic failure, fibrosis and cirrhosis and other liver damage-related conditions (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000013",
+          "name": "Hepatic failure, fibrosis and cirrhosis and other liver damage-related conditions (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000013",
+          "name": "Insuffisance hépatique, fibrose et cirrhose et autres affections assoc à une lésion hépatique (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000013",
+          "name": "Insuffisance hépatique, fibrose et cirrhose et autres affections assoc à une lésion hépatique (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000013",
+          "name": "Leberversagen, Fibrose und Zirrhose und andere durch Leberschaden bedingte Erkrankungen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000013",
+          "name": "Leberversagen, Fibrose und Zirrhose und andere durch Leberschaden bedingte Erkrankungen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000013",
+          "name": "Insufficienza epatica, fibrosi, cirrosi e altre condizioni correlate a danni del fegato (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000013",
+          "name": "Insufficienza epatica, fibrosi, cirrosi e altre condizioni correlate a danni del fegato (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000013",
+          "name": "Insuficiência hepática, fibrose e cirrose e outras condições relacionadas com lesões hepáticas (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000013",
+          "name": "Insuficiência hepática, fibrose e cirrose e outras condições relacionadas com lesões hepáticas (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000013",
+          "name": "Insuficiencia, fibrosis y cirrosis hepática y otras enferm asociadas con afecciones del hígado (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000013",
+          "name": "Insuficiencia, fibrosis y cirrosis hepática y otras enferm asociadas con afecciones del hígado (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000013",
+          "name": "肝不全、肝線維症、肝硬変およびその他の肝細胞障害（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000013",
+          "name": "肝不全、肝線維症、肝硬変およびその他の肝細胞障害（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000013",
+          "name": "Leverfalen, -fibrose en -cirrose en andere leverbeschadiginggerelateerde aandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000013",
+          "name": "Leverfalen, -fibrose en -cirrose en andere leverbeschadiginggerelateerde aandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000013",
+          "name": "Jaterní selhání, fibróza a cirhóza a ostatní stavy spojené s poškozením jater (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000013",
+          "name": "Jaterní selhání, fibróza a cirhóza a ostatní stavy spojené s poškozením jater (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000013",
+          "name": "Májelégtelenség, fibrosis és cirrhosis és egyéb májkárosodással összefüggő körülmények (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000013",
+          "name": "Májelégtelenség, fibrosis és cirrhosis és egyéb májkárosodással összefüggő körülmények (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0553980": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A17467310",
+          "name": "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 15",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/715626008",
+          "name": "Tropical endomyocardial fibrosis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/715626008",
+          "name": "fibrosis endomiocárdica tropical",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A26947221",
+          "name": "CARDIOMYOPATHY, DILATED, 1AA, WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000150",
+          "name": "Cardiomyopathy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000150",
+          "name": "Miocardiopatía (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000150",
+          "name": "Cardiomyopathie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000150",
+          "name": "Cardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000150",
+          "name": "Kardiomyopathie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000150",
+          "name": "Cardiomyopathie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000150",
+          "name": "Cardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000150",
+          "name": "Kardiomyopatie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000150",
+          "name": "心筋症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000150",
+          "name": "Cardiomyopathia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000150",
+          "name": "Кардиомиопатия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000150",
+          "name": "심근 병증(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000150",
+          "name": "Cardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000150",
+          "name": "Kardiomyopati (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000150",
+          "name": "Kardiomiopātija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000150",
+          "name": "Kardiomiopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000150",
+          "name": "Μυοκαρδιοπάθεια (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000150",
+          "name": "اعتِلاَل عَضَل القَلب (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000150",
+          "name": "Kardiomüopaatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000150",
+          "name": "Kardiomyopatia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000150",
+          "name": "Kardiomiopatija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0264573": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/370513009",
+          "name": "Fibrosis of cardiac pacemaker electrode",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/370513009",
+          "name": "fibrosis en la región del electrodo del marcapasos cardíaco",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0412285",
+          "name": "FIBROSIS",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0702487",
+          "name": "Fibrosis, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0702487",
+          "name": "Fibrosis, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/112674009",
+          "name": "Fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/112674009",
+          "name": "fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/J98.59",
+          "name": "Other diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/J98.59",
+          "name": "Other diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A8361439",
+          "name": "Other diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RL",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A8361439",
+          "name": "Other diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RL",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD9CM/519.3",
+          "name": "Other diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C0869275",
+          "name": "Other diseases of mediastinum, NEC in ICD9CM",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0125606",
+          "name": "Thorax",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.5",
+          "name": "Diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.5",
+          "name": "Diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.5",
+          "name": "Diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.5",
+          "name": "Diseases of mediastinum, not elsewhere classified",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/233738009",
+          "name": "Fibrous mediastinitis caused by radiation",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/233738009",
+          "name": "mediastinitis fibrosa causada por radiación",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/398716006",
+          "name": "Endomyocardial fibrosis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/398716006",
+          "name": "fibrosis endomiocárdica",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/250979006",
+          "name": "Aortic valve fibrosis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/250979006",
+          "name": "fibrosis de válvula aórtica",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/251000001",
+          "name": "Mitral sub-valve apparatus fibrosis",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C5384732": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/K74.0",
+          "name": "Hepatic fibrosis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C193192",
+          "name": "mCode Elixhauser Mild Liver Disease Value Set",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C192882",
+          "name": "mCode Non-Neoplastic Disease/Finding",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C193006",
+          "name": "mCode Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/CCSR_ICD10CM/XXX000",
+          "name": "Unacceptable PDX",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A32092263",
+          "name": "Hepatic fibrosis, early fibrosis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A32093204",
+          "name": "Hepatic fibrosis, early fibrosis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A32093016",
+          "name": "Hepatic fibrosis, stage F1 or stage F2",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/CCSR_ICD10CM/DIG019",
+          "name": "Other specified and unspecified liver disease",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/CCSR_ICD10CM/DIG019",
+          "name": "Other specified and unspecified liver disease",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C5384733": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/K74.0",
+          "name": "Hepatic fibrosis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/CCSR_ICD10CM/XXX000",
+          "name": "Unacceptable PDX",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A32092810",
+          "name": "Hepatic fibrosis, advanced fibrosis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A32092897",
+          "name": "Hepatic fibrosis, advanced fibrosis",
+          "relation_label": "SY",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A32092160",
+          "name": "Hepatic fibrosis, stage F3",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/10690671000119109",
+          "name": "Stage 3 hepatic fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/CCSR_ICD10CM/DIG019",
+          "name": "Other specified and unspecified liver disease",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/CCSR_ICD10CM/DIG019",
+          "name": "Other specified and unspecified liver disease",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1800706": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2587214",
+          "name": "(Fibrosing alveolitis: [idiopathic] or [cryptogenic]) or (Hamman - Rich syndrome)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/D054988",
+          "name": "Idiopathic Interstitial Pneumonias",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHSPA/D054988",
+          "name": "Neumonías Intersticiales Idiopáticas",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHFRE/D054988",
+          "name": "Pneumopathies interstitielles idiopathiques",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHITA/D054988",
+          "name": "Polmonite interstiziale idiopatica",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHRUS/D054988",
+          "name": "ПНЕВМОНИИ ИДИОПАТИЧЕСКИЕ ИНТЕРСТИЦИАЛЬНЫЕ",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHGER/D054988",
+          "name": "Idiopathische interstitielle Pneumonien",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOR/D054988",
+          "name": "Pneumonias Intersticiais Idiopáticas",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHSWE/D054988",
+          "name": "Idiopatisk interstitiel pneumoni",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/D054988",
+          "name": "idiopatické intersticiální pneumonie",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOL/D054988",
+          "name": "Zapalenie płuc śródmiąższowe idiopatyczne",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD9CM/516.3",
+          "name": "Idiopathic interstitial pneumonia",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHNOR/D054988",
+          "name": "Idiopatisk interstitiell pneumoni",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/45157009",
+          "name": "Idiopathic interstitial pneumonia",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHJPN/D054988",
+          "name": "肺炎-特発性間質性",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ORPHANET/98300",
+          "name": "Idiopathic interstitial pneumonia",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/700249006",
+          "name": "Idiopathic interstitial pneumonitis",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/700249006",
+          "name": "neumonitis intersticial idiopática",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C2350236",
+          "name": "Idiopathic Interstitial Pneumonias",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/RXNORM/1592737",
+          "name": "nintedanib",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000469",
+          "name": "parasitology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25707230",
+          "name": "Exacerbation of idiopathic pulmonary fibrosis",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25810096",
+          "name": "Idiopathiás pulmonális fibrosis exacerbatiója",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A25851462",
+          "name": "Fibrosi polmonare idiopatica esacerbata",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ]
+    }
+  }
+}

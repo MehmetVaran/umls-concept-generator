@@ -1,0 +1,1879 @@
+{
+  "Emphysema": {
+    "disease": "Emphysema",
+    "candidate_concepts": [
+      {
+        "cui": "C0034067",
+        "name": "Pulmonary Emphysema",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0025062",
+        "name": "Mediastinal Emphysema",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1370824",
+        "name": "Interstitial emphysema",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0221227",
+        "name": "Centriacinar Emphysema",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0264393",
+        "name": "Panacinar Emphysema",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0013990",
+        "name": "Pathological accumulation of air in tissues",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0265797",
+        "name": "Congenital emphysema",
+        "score": null,
+        "semantic_types": [
+          "Congenital Abnormality"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0038536",
+        "name": "Subcutaneous Emphysema",
+        "score": null,
+        "semantic_types": [
+          "Pathologic Function"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C0155918",
+        "name": "Compensatory emphysema",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      },
+      {
+        "cui": "C1261120",
+        "name": "Chronic bullous emphysema",
+        "score": null,
+        "semantic_types": [
+          "Disease or Syndrome"
+        ],
+        "definition": null,
+        "sources": []
+      }
+    ],
+    "related_concepts": {
+      "C0034067": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A21235728",
+          "name": "CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IC",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/J43.0",
+          "name": "Unilateral pulmonary emphysema [MacLeod's syndrome]",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A17826596",
+          "name": "Bullous emphysema (lung)(pulmonary)",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A17864740",
+          "name": "Vesicular emphysema (lung)(pulmonary)",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/429953005",
+          "name": "Family history of pulmonary emphysema",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/429953005",
+          "name": "antecedente familiar de enfisema pulmonar",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A16344698",
+          "name": "Korean Standard Classification of Disease Version 5",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C77526",
+          "name": "CDISC SEND Terminology",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/54140-9",
+          "name": "History of diseases:Hx:Pt:^Patient:Nom:USSG-FHT",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/54112-8",
+          "name": "Cause of death:Find:Pt:^Family member:Nom:USSG-FHT",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/LNC/54116-9",
+          "name": "History of diseases:Hx:Pt:^Family member:Nom:USSG-FHT",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/RXNORM/1114325",
+          "name": "indacaterol maleate",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/95921",
+          "name": "unilateral hyperlucent lung",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHCZE/M0519950",
+          "name": "fokální emfyzém",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHITA/M0519950",
+          "name": "Enfisema focale",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/M0519950",
+          "name": "Focal Emphysema",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/RXNORM/1546059",
+          "name": "olodaterol",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/33002",
+          "name": "hereditary emphysema (alpha 1-antitrypsin deficiency)",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/275910",
+          "name": "distal acinar emphysema",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/275910",
+          "name": "distal acinar emphysema",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/91142",
+          "name": "respiratory obstructive disorders",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000469",
+          "name": "parasitology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0025062": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/15258",
+          "name": "computed tomography of chest: pneumomediastinum",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/13714",
+          "name": "x-ray of chest: pneumomediastinum",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/427445002",
+          "name": "Tension pneumomediastinum",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/427445002",
+          "name": "neumomediastino a tensión",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000469",
+          "name": "parasitology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/18271",
+          "name": "computed tomography of chest: air containing structure of mediastinum",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/266411000",
+          "name": "(Respiratory disease NOS) or (adult respiratory distress syndrome) or (pneumomediastinum) or (tracheomalacia)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000175",
+          "name": "diagnosis",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000276",
+          "name": "immunology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000523",
+          "name": "psychology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000235",
+          "name": "genetics",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.2",
+          "name": "Interstitial emphysema",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.2",
+          "name": "Interstitial emphysema",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.2",
+          "name": "Interstitial emphysema",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10/J98.2",
+          "name": "Interstitial emphysema",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD10CM/J98.2",
+          "name": "Interstitial emphysema",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/77690003",
+          "name": "Interstitial emphysema of lung",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/M000758816",
+          "name": "Pulmonary Interstitial Emphysema",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHSPA/M000758816",
+          "name": "Enfisema Pulmonar Intersticial",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSHPOR/M000758816",
+          "name": "Enfisema Intersticial Pulmonar",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A8341383",
+          "name": "Interstitial emphysema",
+          "relation_label": "RL",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICD9CM/518.1",
+          "name": "Interstitial emphysema",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/399902003",
+          "name": "Disorder of body cavity",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/399902003",
+          "name": "trastorno de cavidad corporal",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1370824": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/427445002",
+          "name": "Tension pneumomediastinum",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/91146",
+          "name": "environmental respiratory disorders",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000130",
+          "name": "Hipertensión pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000130",
+          "name": "Hypertension pulmonaire (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000130",
+          "name": "Pulmonale hypertensie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000130",
+          "name": "Ipertensione polmonare (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000130",
+          "name": "Pulmonální hypertenze (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000130",
+          "name": "肺高血圧症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000130",
+          "name": "Pulmonalis hypertonia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000130",
+          "name": "Pulmonale Hypertonie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000130",
+          "name": "Легочная гипертензия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000130",
+          "name": "폐 고혈압(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000130",
+          "name": "Pulmonell hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000130",
+          "name": "Plaušu hipertensija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000130",
+          "name": "Πνευμονική υπέρταση (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000130",
+          "name": "Nadciśnienie płucne (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000130",
+          "name": "ارتفاع ضَغْطِ الدَّم الرِئَوِيّ (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000130",
+          "name": "Pulmonaalne hüpertensioon (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000130",
+          "name": "Keuhkoverenpainetauti (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000130",
+          "name": "Plaučių hipertenzija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHRV/20000130",
+          "name": "Plućne hipertenzije (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRISL/20000130",
+          "name": "Lungnaháþrýstingur (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0221227": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000130",
+          "name": "Hipertensión pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000130",
+          "name": "Hypertension pulmonaire (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000130",
+          "name": "Pulmonale hypertensie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000130",
+          "name": "Ipertensione polmonare (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000130",
+          "name": "Pulmonální hypertenze (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000130",
+          "name": "肺高血圧症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000130",
+          "name": "Pulmonalis hypertonia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000130",
+          "name": "Pulmonale Hypertonie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000130",
+          "name": "Легочная гипертензия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000130",
+          "name": "폐 고혈압(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000130",
+          "name": "Pulmonell hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000130",
+          "name": "Plaušu hipertensija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000130",
+          "name": "Πνευμονική υπέρταση (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000130",
+          "name": "Nadciśnienie płucne (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000130",
+          "name": "ارتفاع ضَغْطِ الدَّم الرِئَوِيّ (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000130",
+          "name": "Pulmonaalne hüpertensioon (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000130",
+          "name": "Keuhkoverenpainetauti (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000130",
+          "name": "Plaučių hipertenzija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHRV/20000130",
+          "name": "Plućne hipertenzije (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRISL/20000130",
+          "name": "Lungnaháþrýstingur (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C1800706",
+          "name": "Idiopathic Pulmonary Fibrosis",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/CCSR_ICD10CM/RSP008",
+          "name": "Chronic obstructive pulmonary disease and bronchiectasis",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0264393": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000130",
+          "name": "Hipertensión pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000130",
+          "name": "Hipertensión pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000130",
+          "name": "Hypertension pulmonaire (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000130",
+          "name": "Hypertension pulmonaire (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000130",
+          "name": "Pulmonale hypertensie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000130",
+          "name": "Pulmonale hypertensie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000130",
+          "name": "Ipertensione polmonare (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000130",
+          "name": "Ipertensione polmonare (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000130",
+          "name": "Pulmonální hypertenze (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000130",
+          "name": "Pulmonální hypertenze (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000130",
+          "name": "肺高血圧症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000130",
+          "name": "肺高血圧症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000130",
+          "name": "Pulmonalis hypertonia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000130",
+          "name": "Pulmonalis hypertonia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000130",
+          "name": "Pulmonale Hypertonie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000130",
+          "name": "Pulmonale Hypertonie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000130",
+          "name": "Легочная гипертензия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000130",
+          "name": "Легочная гипертензия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000130",
+          "name": "폐 고혈압(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000130",
+          "name": "폐 고혈압(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0013990": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/RXNORM/852217",
+          "name": "smooth brome pollen extract",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/RXNORM/852419",
+          "name": "beech pollen extract",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/427445002",
+          "name": "Tension pneumomediastinum",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/427445002",
+          "name": "neumomediastino a tensión",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/78189",
+          "name": "excision-plication of emphysematous lung",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/78190",
+          "name": "excision-plication of emphysematous lung via sternal split approach",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MEDCIN/78191",
+          "name": "excision-plication of emphysematous lung(s) by transthoracic approach",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000469",
+          "name": "parasitology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/195965009",
+          "name": "(Sawyer-Jones syndrome) or (other emphysema NOS)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/RXNORM/466192",
+          "name": "Aspergillus fumigatus allergenic extract",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/C566519",
+          "name": "Emphysema, Congenital, With Deafness, Penoscrotal Web, And Mental Retardation",
+          "relation_label": "RB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000175",
+          "name": "diagnosis",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000276",
+          "name": "immunology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000523",
+          "name": "psychology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000235",
+          "name": "genetics",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0004869",
+          "name": "Emphysema, interstitial",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0562118",
+          "name": "Interstitial emphysema of lung",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/11211003",
+          "name": "Interstitial emphysema",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/11211003",
+          "name": "enfisema intersticial",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000453",
+          "name": "epidemiology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/RXNORM/314753",
+          "name": "orris allergenic extract",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0693912",
+          "name": "Emphysema, bullous",
+          "relation_label": "PAR",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_VET/41121000009108",
+          "name": "Bullous emphysema",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/195957006",
+          "name": "Chronic bullous emphysema",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0265797": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000077",
+          "name": "Congenital, familial and genetic disorders (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000077",
+          "name": "Congenitale, familiale en genetische aandoeningen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000077",
+          "name": "Affections congénitales, familiales et génétiques (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000077",
+          "name": "Kongenitale, familiaere und genetische Erkrankungen (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000077",
+          "name": "Patologie congenite, familiari e genetiche (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000077",
+          "name": "Afecções congénitas, familiares e genéticas (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000077",
+          "name": "Trastornos congénitos, familiares y genéticos (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000077",
+          "name": "Kongenitální, familiální a genetické poruchy (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000077",
+          "name": "先天性、家族性および遺伝性障害（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000077",
+          "name": "Veleszületett, családi és genetikai rendellenességek (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/NCI/C53302",
+          "name": "Congenital Lesion",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000077",
+          "name": "Врожденные, наследственные и генетические нарушения (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000077",
+          "name": "선천성, 가족성 및 유전성 장애(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000077",
+          "name": "Distúrbios congênitos, de família e genéticos (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000077",
+          "name": "Iedzimti, ģimenes un ģenētiski traucējumi (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000077",
+          "name": "Medfödda, ärftliga och genetiska sjukdomar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000077",
+          "name": "Wady wrodzone, rodzinne i genetyczne (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000077",
+          "name": "Συγγενείς, οικογενείς και γενετικές διαταραχές (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000077",
+          "name": "الاضطرابات الخِلقية والعائلية والجينية (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000077",
+          "name": "Kaasasündinud, perekondlikud ja geneetilised haigusseisundid (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000077",
+          "name": "Synnynnäiset suvuttaiset ja geneettiset sairaudet (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHRV/20000077",
+          "name": "Prirođeni, obiteljski i genetski poremećaji (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000077",
+          "name": "Įgimti, šeiminiai ir genetiniai sutrikimai (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRISL/20000077",
+          "name": "Meðfæddar, ættgengar og erfðafræðilegar raskanir (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A35396000",
+          "name": "CLEFT PALATE, CARDIAC DEFECTS, AND IMPAIRED INTELLECTUAL DEVELOPMENT",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0038536": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000469",
+          "name": "parasitology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000266",
+          "name": "history",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000175",
+          "name": "diagnosis",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000276",
+          "name": "immunology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000523",
+          "name": "psychology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000235",
+          "name": "genetics",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0004869",
+          "name": "Emphysema, interstitial",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0004869",
+          "name": "Emphysema, interstitial",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C1370824",
+          "name": "Interstitial emphysema",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SNOMEDCT_US/128041002",
+          "name": "Disorder of subcutaneous tissue",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/SCTSPA/128041002",
+          "name": "trastorno del tejido celular subcutáneo",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2EENG/A82",
+          "name": "Secondary effect of trauma",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/ICPC2EENG/A82",
+          "name": "Secondary effect of trauma",
+          "relation_label": "RN",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000453",
+          "name": "epidemiology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000150",
+          "name": "complications",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000208",
+          "name": "ethnology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MSH/Q000209",
+          "name": "etiology",
+          "relation_label": "QB",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/10040911",
+          "name": "Complicazioni di procedure cutanee",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/10040911",
+          "name": "皮膚処置合併症",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/10040911",
+          "name": "Kožní komplikace výkonů",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/10040911",
+          "name": "Bőr beavatkozás szövődményei",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/10040911",
+          "name": "Skin procedural complications",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/10040911",
+          "name": "Complications d'interventions sur la peau",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/10040911",
+          "name": "Осложнения после терапевтических и хирургических вмешательств со стороны кожи",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/10040911",
+          "name": "각종 피부 시술 합병증",
+          "relation_label": "CHD",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C0155918": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000130",
+          "name": "Hipertensión pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000130",
+          "name": "Hypertension pulmonaire (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000130",
+          "name": "Pulmonale hypertensie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000130",
+          "name": "Ipertensione polmonare (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000130",
+          "name": "Pulmonální hypertenze (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000130",
+          "name": "肺高血圧症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000130",
+          "name": "Pulmonalis hypertonia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000130",
+          "name": "Pulmonale Hypertonie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000130",
+          "name": "Легочная гипертензия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000130",
+          "name": "폐 고혈압(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000130",
+          "name": "Pulmonell hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000130",
+          "name": "Plaušu hipertensija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000130",
+          "name": "Πνευμονική υπέρταση (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000130",
+          "name": "Nadciśnienie płucne (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000130",
+          "name": "ارتفاع ضَغْطِ الدَّم الرِئَوِيّ (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000130",
+          "name": "Pulmonaalne hüpertensioon (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000130",
+          "name": "Keuhkoverenpainetauti (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000130",
+          "name": "Plaučių hipertenzija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHRV/20000130",
+          "name": "Plućne hipertenzije (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRISL/20000130",
+          "name": "Lungnaháþrýstingur (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A8298477",
+          "name": "Pleurisy; pneumothorax; pulmonary collapse",
+          "relation_label": "RQ",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A0693911",
+          "name": "Emphysema, NOS",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ],
+      "C1261120": [
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDR/20000130",
+          "name": "Pulmonary hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSPA/20000130",
+          "name": "Hipertensión pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFRE/20000130",
+          "name": "Hypertension pulmonaire (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRDUT/20000130",
+          "name": "Pulmonale hypertensie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOR/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRITA/20000130",
+          "name": "Ipertensione polmonare (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRCZE/20000130",
+          "name": "Pulmonální hypertenze (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRJPN/20000130",
+          "name": "肺高血圧症（ＳＭＱ）",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHUN/20000130",
+          "name": "Pulmonalis hypertonia (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGER/20000130",
+          "name": "Pulmonale Hypertonie (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRRUS/20000130",
+          "name": "Легочная гипертензия (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRKOR/20000130",
+          "name": "폐 고혈압(SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRBPO/20000130",
+          "name": "Hipertensão pulmonar (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRSWE/20000130",
+          "name": "Pulmonell hypertension (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLAV/20000130",
+          "name": "Plaušu hipertensija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRGRE/20000130",
+          "name": "Πνευμονική υπέρταση (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRPOL/20000130",
+          "name": "Nadciśnienie płucne (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRARA/20000130",
+          "name": "ارتفاع ضَغْطِ الدَّم الرِئَوِيّ (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDREST/20000130",
+          "name": "Pulmonaalne hüpertensioon (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRFIN/20000130",
+          "name": "Keuhkoverenpainetauti (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRLIT/20000130",
+          "name": "Plaučių hipertenzija (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRHRV/20000130",
+          "name": "Plućne hipertenzije (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/source/MDRISL/20000130",
+          "name": "Lungnaháþrýstingur (SMQ)",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/AUI/A12003293",
+          "name": "KEUTEL SYNDROME",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        },
+        {
+          "related_cui": "https://uts-ws.nlm.nih.gov/rest/content/2025AB/CUI/C1305953",
+          "name": "Emphysematous bulla",
+          "relation_label": "RO",
+          "relation": null,
+          "additional_information": null
+        }
+      ]
+    }
+  }
+}

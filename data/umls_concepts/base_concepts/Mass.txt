@@ -1,0 +1,55 @@
+Liver
+Lung
+Adrenal glands
+Aorta
+Blood vessels
+Bronchi
+Chest wall
+Diaphragm
+Esophagus
+Gallbladder
+Heart
+Intestines
+Kidney
+Lymph nodes
+Mediastinum
+Pancreas
+Pleura
+Ribs
+Spleen
+Stomach
+Irregular or spiculated borders
+Well-defined or irregular borders
+Associated pleural effusion
+Contrast enhancement on imaging
+Heterogeneous internal structure
+Heterogeneous or homogeneous density
+High density or opacity on imaging
+Invasion into adjacent structures
+Involvement of surrounding structures (e.g., chest wall, mediastinum)
+Lobulated contours
+Lobulated or smooth contour
+Location within the lung (e.g., upper or lower lobe)
+Presence of calcifications
+Presence of satellite nodules
+Presence of spiculations
+Size and shape of the mass
+Size greater than 3 cm
+neoplasm
+tumor
+abnormal growth
+abnormal tissue
+abnormal tissue growth
+anatomical abnormality
+anatomical anomaly
+biological abnormality
+biological phenomenon
+entity
+health anomaly
+health condition
+lesion
+medical condition
+natural phenomenon
+pathological condition
+physical abnormality
+tissue anomaly

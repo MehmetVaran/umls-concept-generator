@@ -1,0 +1,190 @@
+(Goitre, non toxic [& simple/nodular]) or (thyroid nodule, non toxic)
+Acontecimientos de extravasación (inyecciones, infusiones e implantes) (SMQ)
+Apocrine Poroma
+CDISC SEND Terminology
+CHEST CT SCAN ABNORMAL
+CHEST X RAY ABNORMAL
+CHEST X RAY NEW FINDING
+CHEST XRAY MULTIPLE PULMONARY NODULES, CALCIFIED
+CHEST XRAY MULTIPLE PULMONARY NODULES, NON-CALCIFIED
+COCAINE ABUSE
+Cerebellum
+Coin lesion of lung
+Cortex of nodulus
+DEPRESSIVE DISORDER NOS
+Dominant nodule of thyroid
+Entire nucleus of tractus solitarius
+Eventi di stravaso (iniezioni, infusioni e impianti) (SMQ)
+Eventos de extravasamento (injeções, infusões e implantes) (SMQ)
+Eventos de extravasação (injecções, infusões e implantes) (SMQ)
+Extravasatievoorvallen (injecties, infusies en implantaties) (SMQ)
+Extravasation events (injections, infusions and implants) (SMQ)
+Extravasationsereignisse (Injektionen, Infusionen und Implantate) (SMQ)
+Extravasatios esetek (injekciók, infuziók és implantátumok) (SMQ)
+FLOCCULONODULAR LOBES
+Flocculonodular Lobes
+Flocculonodular lobe of cerebellum
+Flocculonodular lobe structure
+Hematopoietic and Lymphatic System
+Hidroacanthoma Simplex
+Hyperplasia of prostate
+Inferior vermis structure
+LUNG
+LUNG CANCER
+LUNG WEDGE RESECTION
+Left flocculus of cerebellum
+Lesion of lung
+Limfadenopatia
+Limfadenopātija
+Linfadenopatia
+Linfoadenopatia
+Lobule of hemisphere of cerebellum
+Lymfadenopatie
+Lymfkörtelförstoring
+Lymph Node Lymphoid Follicle
+Lymphadenopathia
+Lymphadenopathy
+Lymphoid nodule
+Lymphoid nodule of tongue
+Lümfadenopaatia
+Mantle Zone
+Marrow Lymphoid Tissues
+Medulla of nodulus
+Multiple Pulmonary Nodules
+Multiple nodules of lung
+Neoplastic Nodule
+Nodule
+Nodule of lung
+Nodulus cerebelli
+Nucleus raphe magnus
+Other disorders of lung
+Peyer Patch Germinal Center
+Peyer Patch Lymphoid Follicle
+Plant Part
+Pontine raphe nucleus
+Poroma
+Primary nodular lymphoid tissue
+Prostate nodule
+Pulmonary granuloma
+Příhody extravazátu (injekce, infúze a implantace) (SMQ)
+Radiologic Finding
+Rheumatoid Nodule
+Rheumatoid nodule of left wrist
+Rheumatoid nodule of right wrist
+Rheumatoid nodule of subcutaneous tissue of left elbow
+Rheumatoid nodule of subcutaneous tissue of right elbow
+Rheumatoid nodule of subcutaneous tissue of right hand
+Rheumatoid nodule of wrist
+Rheumatoid nodule, elbow
+Rheumatoid nodule, shoulder
+Rheumatoid nodule, wrist
+Right flocculus of cerebellum
+Root Nodule
+Section of cerebellum
+Side
+Skin nodule
+Solitary Pulmonary Nodule
+Solitary nodule of lung
+Solitary pulmonary nodule
+Splenic Germinal Center
+Splenic Lymphoid Follicle
+Subcutaneous nodule
+Thyroid Nodule
+Vermis part of posterior lobe of cerebellum
+X
+descending colon procedure manual abdominal exploration noting peritoneal nodules
+estructura del lóbulo floculonodular
+estructura del vermis inferior
+firm nodule of left lobe of thyroid
+firm nodule of right lobe of thyroid
+firm nodule of thyroid
+fixed nodule of left lobe of thyroid
+fixed nodule of right lobe of thyroid
+fixed nodule of thyroid
+flocculonodular lobe
+granuloma pulmonar
+hard, small, and smooth nodule of left lobe of thyroid
+hard, small, and smooth nodule of right lobe of thyroid
+hard, small, and smooth nodule of thyroid
+lateral sulci of prostate deformed by nodule
+lateralidad
+lesión de pulmón
+multiple nodules or hard areas of prostate
+nodule of dorsal aspect of hand
+nodule of hand
+nodule of inferior aspect of sclera of left eye
+nodule of inferior aspect of sclera of right eye
+nodule of lateral aspect of sclera of left eye
+nodule of lateral aspect of sclera of right eye
+nodule of medial aspect of sclera of left eye
+nodule of medial aspect of sclera of right eye
+nodule of superior aspect of sclera of left eye
+nodule of superior aspect of sclera of right eye
+nodule of thyroid by palpation
+nodule or hard area of prostate with postvoiding residual urine
+nodulus
+nódulo dominante de glándula tiroides
+nódulo reumatoide subcutáneo de codo derecho
+nódulo reumatoide subcutáneo de codo izquierdo
+nódulo reumatoide subcutáneo de mano derecha
+nódulo reumatoideo de muñeca
+nódulo reumatoideo de muñeca derecha
+nódulo reumatoideo de muñeca izquierda
+nódulo solitario de pulmón
+nódulos pulmonares múltiples
+painless nodule of auricle of both ears
+painless nodule of auricle of left ear
+painless nodule of auricle of right ear
+radionuclide scan of thyroid: cold nodule
+radionuclide scan of thyroid: single hot nodule
+respiratory
+rheumatoid nodule of left shoulder
+rheumatoid nodule of right shoulder
+rheumatoid nodule of subcutaneous tissue of wrist region
+sagittal transrectal sonogram hyperechoic nodules of prostate
+sagittal transrectal sonogram hypoechoic nodules of prostate
+sagittal transrectal sonogram multiple nodules of prostate
+sagittal transrectal sonogram nodule of prostate
+sagittal transrectal sonogram single nodule of prostate
+sagittal transrectal sonogram size of largest nodule of prostate
+sagittal transrectal sonogram total number of nodules of prostate
+single hard nodule of thyroid
+single nodule of left lobe of thyroid
+single nodule of midline thyroid
+single nodule of right lobe of thyroid
+single nodule of thyroid
+single nodule of thyroid with increase in size since prior exam
+single nodule or hard area of prostate
+single tender nodule of thyroid
+size of nodule of left lower eyelid
+size of nodule of left upper eyelid
+size of nodule of right lower eyelid
+size of nodule of right upper eyelid
+size of single nodule of thyroid
+soft nodule of left lobe of thyroid
+soft nodule of right lobe of thyroid
+soft nodule of thyroid
+solitary pulmonary nodule
+transrectal sonogram hyperechoic nodules of prostate
+transrectal sonogram hypoechoic nodules of prostate
+transrectal sonogram multiple nodules of prostate
+transrectal sonogram number of multiple prostate nodules (#___)
+transrectal sonogram single nodule of prostate
+transrectal sonogram size of largest nodule of prostate
+transverse transrectal sonogram hyperechoic prostate nodules
+transverse transrectal sonogram hypoechoic prostate nodules
+transverse transrectal sonogram multiple nodules of prostate largest size
+transverse transrectal sonogram multiple prostate nodules
+transverse transrectal sonogram prostate multiple nodules total number
+transverse transrectal sonogram prostate nodules
+transverse transrectal sonogram size of single prostate nodule
+ulcerating nodule of foot
+vermis
+Événements d'extravasation (injections, perfusions et implants) (SMQ)
+Λεμφαδενοπάθεια
+Лимфаденопатия
+Явления экстравазации (инъекции, инфузии и имплантаты) (SMQ)
+تضخم العقد اللمفية
+血管外漏出（注射、注入および埋込み部位）（ＳＭＱ）
+림프절 병증
+혈관 외 유출 사건(주사, 주입 및 이식) (SMQ)

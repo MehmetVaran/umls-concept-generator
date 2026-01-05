@@ -1,0 +1,154 @@
+Accidentes y lesiones (SMQ)
+Accidents and injuries (SMQ)
+Accidents et lésions (SMQ)
+Acidentes e lesões (SMQ)
+Acute pneumothorax
+Air leakage
+Bacterial respiratory infection
+Balesetek és sérülések (SMQ)
+CHEST
+CT scan of lung: pneumothorax
+CT scan of lung: pneumothorax on left
+CT scan of lung: pneumothorax on right
+Catamenial pneumothorax
+Chronic pneumothorax
+Clicking pneumothorax
+Disorder associated with menstruation AND/OR menopause
+Early neonatal period
+Efusões do pneumotórax e da pleura NC
+Elsődleges spontán pneumothorax
+Emopneumotorace
+Empyema and pneumothorax
+Extension Namespace 1000000
+HYPOXIA, ASPHYXIA AND OTHER RESPIRATORY CONDITIONS OF THE FETUS AND NEWBORN
+Haemopneumothorax
+Hemopneumothorax
+Hemopneumotoraks
+Hemopneumotorax
+Hemopneumotórax
+Hämopneumothorax
+Hémopneumothorax
+Incidenti e lesioni (SMQ)
+Infectious process
+Interstitial emphysema and related conditions originating in the perinatal period
+Korean Standard Classification of Disease Version 5
+Loftbrjóst og fleiðruvökvi, ekki flokkað annars staðar
+Mujal klassifitseerimata pneumotooraks ja pleuraefusioonid
+Muualla luokittamattomat ilmarinta ja keuhkopussin effuusiot
+Mycobacterium tuberculosis complex
+Nehody a poranění (SMQ)
+Neonatal pulmonary air leak
+Neonatal respiratory system disorder
+Neumotórax espontáneo primario
+Odma opłucnowa i wysięki opłucnowe NGI
+Ongevallen en letsels (SMQ)
+Open pneumothorax
+Other pneumothorax
+PCP
+PNEUMOTHORAX SIMPLE
+Perinatal morbidity other
+Perinatal pneumothorax
+Pierwotna samoistna odma opłucnowa
+Pleurisy; pneumothorax; pulmonary collapse
+Pneimotorakss un pleiras izsvīdumi CNK
+Pneumothorax
+Pneumothorax and pleural effusions NEC
+Pneumothorax et épanchements pleuraux NCA
+Pneumothorax ex vacuo
+Pneumothorax och vätskeutgjutningar i lungsäck som ej klassificeras på annan plats
+Pneumothorax originating in the perinatal period
+Pneumothorax primitif spontané
+Pneumothorax und Pleuraerguss ANE
+Pneumothorax és mellhártya folyadék m.n.o.
+Pneumothorax, Pressure
+Pneumothorax, Tension
+Pneumotorace e versamenti pleurici NCA
+Pneumotorace spontaneo primario
+Pneumotoraks i pleuralni izljevi, nerazvrstani
+Pneumotoraksas ir pleuros efuzijos, neklasifikuojama kitur
+Pneumotorax a pleurální výpotky NEC
+Pneumotorax y derrames pleurales NCOC
+Pneumotórax e derrames pleurais NCO
+Pneumotórax espontâneo primário
+Primaarne spontaanne pneumotooraks
+Primaerer Spontanpneumothorax
+Primary spontaneous pneumothorax
+Primární spontánní pneumotorax
+Primär spontan pneumotorax
+Primārs spontāns pneimotorakss
+Respiratory disease other
+Spontaneous
+Spontaneous event
+Spontaneous neonatal pneumothorax
+Spontaneous pneumothorax
+Spontaneous pneumothorax NOS
+Spontaneous tension pneumothorax
+TUBERCULOSIS CHRONIC PULMONARY
+Tension Pneumothorax
+Tension pneumothorax
+Tension pneumothorax relief
+Traumatic pneumothorax
+Traumatic pneumothorax, initial encounter
+Traumatic pneumothorax, sequela
+Traumatic pneumothorax, subsequent encounter
+Tuberculosis of lung, without mention of bacteriological or histological confirmation
+Tuberculous pneumothorax
+Unfaelle und Verletzungen (SMQ)
+[X]Other pneumothorax
+acute spontaneous pneumothorax
+acute; pneumothorax
+alivio de neumotórax a tensión
+chronic spontaneous pneumothorax
+chronic; pneumothorax
+complejo Mycobacterium
+congenital; pneumothorax
+evento espontáneo
+filtración de aire
+hemoneumotórax
+hemopneumotorax
+infección bacteriana respiratoria
+neumotórax a tensión
+neumotórax ex vacuo
+período neonatal inmediato
+pneumothorax en pleurale uitstortingen NEG
+pneumothorax of fetus or newborn
+pneumothorax; acute
+pneumothorax; chronic
+pneumothorax; congenital
+pneumothorax; spanningspneumothorax
+pneumothorax; spontaneous, fetus or newborn
+pneumothorax; tension pneumothorax
+primaire spontane pneumothorax
+primary spontaneous pneumothorax
+proceso infeccioso
+respiratory conditions of fetus or newborn
+secondary pneumothorax
+spanningspneumothorax; pneumothorax
+spontaneous; pneumothorax, fetus or newborn
+tension pneumothorax
+tension pneumothorax; pneumothorax
+trastorno del aparato respiratorio neonatal
+trastornos asociados con la menstruación Y/O la menopausia
+tuberculous pneumothorax TB (+) histology, (-) bacteriology
+tuberculous pneumothorax TB (+) other way (-) bacteriology (-) histology
+tuberculous pneumothorax TB in sputum: (+) culture (-) microscopy
+tuberculous pneumothorax TB in sputum: (+) microscopy
+tuberculous pneumothorax bacteriology and histology not done
+tuberculous pneumothorax bacteriology and histology unknown
+x-ray of chest: lungs pneumothorax
+Πνευμονοθώρακας και πλευριτικές συλλογές ΔΑΤ
+Πρωτοπαθής αυτόματος πνευμοθώρακας
+ГЕМОПНЕВМОТОРАКС
+Несчастные случаи и травмы (SMQ)
+Первичный спонтанный пневмоторакс
+Пневмоторакс и плевральный выпот НКДР
+استرواح الصدر التلقائي الأولي
+استرواح الصدر والانصبابات الجنبية، غير مصنف في موضع آخر
+事故および損傷（ＳＭＱ）
+気胸および胸水ＮＥＣ
+血気胸
+기타 공기가슴증
+기흉 및 흉막 삼출 NEC
+원발성 자연 기흉
+출생전후기에 기원한 공기가슴증
+출생전후기에 기원한 사이질성 폐기종 및 관련 병태

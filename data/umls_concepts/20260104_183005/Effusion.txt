@@ -1,0 +1,144 @@
+Ar ļaundabīgiem audzējiem saistīti stāvokļi (SMQ)
+Biospecimen Type
+Body fluid
+CARDIOMEGALY
+CDISC SDTM Specimen Type Terminology
+CDISC SEND Biospecimens Terminology
+CDISC SEND Terminology
+CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Il
+CONGESTIVE HEART FAILURE
+Cardiomiopatia (SMQ)
+Cardiomyopathia (SMQ)
+Cardiomyopathie (SMQ)
+Cardiomyopathy (SMQ)
+Cardiopathies
+Cardiopatias
+Cardiopatías
+Choroby serca
+Chylous effusion
+Condizioni correlate alla malignità (SMQ)
+Condições relacionadas com malignidades (SMQ)
+Derrame mastoideo
+Derrame mediastínico
+EFFUSIONS
+Effusion
+Effusion (substance)
+Effusion of joint of left hip
+Effusion of joint of left wrist region
+Effusion of joint of right hip
+Effusion of joint of right wrist region
+Effusion specimen
+Effusions
+HEMOPERICARDIUM
+Haemopericardium
+Heart Diseases
+Hemopericardio
+Hemopericárdio
+Herzkrankheiten
+Hjartavöðvakvilli (SMQ)
+Hjertesykdommer
+Hjärtsjukdomar
+Intermittent effusion of joint of left elbow
+Intermittent effusion of joint of left shoulder region
+Intermittent effusion of joint of right elbow
+Intermittent effusion of joint of right shoulder region
+Intermittent hydrarthrosis of left hip
+Intermittent hydrarthrosis of left knee
+Intermittent hydrarthrosis of right hip
+Intermittent hydrarthrosis of right knee
+Kardiomiopatia (SMQ)
+Kardiomiopatija (SMQ)
+Kardiomiopatija, nespecificirana (SMQ)
+Kardiomiopātija (SMQ)
+Kardiomyopathie (SMQ)
+Kardiomyopati (SMQ)
+Kardiomyopatia (SMQ)
+Kardiomyopatie (SMQ)
+Kardiomüopaatia (SMQ)
+Kvillar tengdir illkynja sjúkdómum (SMQ)
+MRI of heart for morphology: pericardium effusion
+Malattie cardiache
+Malignanciával kapcsolatos állapotok (SMQ)
+Malignancy related conditions (SMQ)
+Malignitaetsbedingte Erkrankungen (SMQ)
+Maligniteettiin liittyvät sairaudet (SMQ)
+Maligniteitgerelateerde aandoeningen (SMQ)
+Malignitetsrelaterade tillstånd (SMQ)
+Mastoid effusion
+Mediastinal effusion
+Miocardiopatía (SMQ)
+Ovarian Clear Cell Adenocarcinofibroma
+Pahaloomulisud seisundid (SMQ)
+Pericardial effusion
+Peritoneal Effusion
+Pleural Effusion, Malignant
+Pleural effusion (disorder)
+Procesos relacionados con enfermedades malignas (SMQ)
+Quadros clínicos relacionados a malignidades (SMQ)
+Schorzenia związane z nowotworami złośliwymi (SMQ)
+Specimen Source Codes
+Specimen Source Codes - Effusion
+Stanja povezana s malignitetom (SMQ)
+Stavy souvisící s malignitou (SMQ)
+Su piktybiniais navikais susijusios ligos (SMQ)
+Sydäntaudit
+T Acute Lymphoblastic Leukemia
+Targeted Anatomic Site
+Trephination of cranium and external drainage of effusion from intracranial subdural space
+VENTRICULAR SEPTAL DEFECT
+bacterial pleural effusion other than tuberculosis
+chylous; effusion
+computed tomography of chest: pericardial effusion
+computed tomography of chest: pleural effusion
+computed tomography of chest: pleural effusion on left only
+computed tomography of chest: pleural effusion on right only
+derrame
+derrame articular de cadera derecha
+derrame articular de cadera izquierda
+derrame articular de muñeca derecha
+derrame articular de muñeca izquierda
+derrame intermitente de articulación de cadera derecha
+derrame intermitente de articulación de cadera izquierda
+derrame intermitente de articulación de codo derecho
+derrame intermitente de articulación de codo izquierdo
+derrame intermitente de articulación de región de hombro derecho
+derrame intermitente de articulación de región de hombro izquierdo
+doxycycline anhydrous
+effusion
+effusion; chylous
+effusion; pleura, chylous, chyliform
+effusion; pleural sac, chylous or chyliform
+effusion; pleuropericardial, chylous, chyliform
+encysted pleural effusion
+espécimen obtenido de líquido de derrame
+fluido corporal
+hidrartrosis intermitente de rodilla derecha
+hidrartrosis intermitente de rodilla izquierda
+left-sided pleural effusion
+nemoci srdce
+parasitology
+pleura; effusion, chylous, chyliform
+pleural sac; effusion, chylous or chyliform
+pleurisy; with effusion, chylous, chyliform
+pleuropericardial; effusion, chylous, chyliform
+right-sided pleural effusion
+serofibrinous pleural effusion
+serous pleural effusion
+trepanación de cráneo y drenaje externo de derrame de espacio subdural
+x-ray of chest: pleural effusion
+x-ray of chest: pleural effusion bilaterally
+x-ray of chest: pleural effusion on left only
+x-ray of chest: pleural effusion on right only
+États associés au cancer (SMQ)
+Μυοκαρδιοπάθεια (SMQ)
+Παθήσεις σχετιζόμενες με κακοήθεια (SMQ)
+Кардиомиопатия (SMQ)
+СЕРДЦА БОЛЕЗНИ
+Состояния, связанные со злокачественной опухолью (SMQ)
+اعتِلاَل عَضَل القَلب (SMQ)
+حالات متعلقة بالأورام الخبيثة (SMQ)
+心筋症（ＳＭＱ）
+悪性疾患関連状態（ＳＭＱ）
+심근 병증(SMQ)
+악성 종양 관련 병태(SMQ)
+암죽 삼출액

@@ -1,0 +1,110 @@
+ATELECTASIS
+Acute insufficiency
+Altra e non specificata atelettasia del feto e del neonato
+Altra e non specificata atelettasia del feto o del neonato
+Atelectases, Congestive
+Atelectases, Congestive Pulmonary
+Atelectasia Pulmonar
+Atelectasia do feto ou recém-nascido, outra e não especificada
+Atelectasis
+Atelectasis, Congestive Pulmonary
+Atelektase
+Atelettasia polmonare
+Atélectasie de résorption
+Atélectasie pulmonaire
+Atélectasie pulmonaire post-opératoire
+Autre atélectasie non précisée du foetus ou du nouveau-né
+CDISC SEND Terminology
+CILIARY DYSKINESIA, PRIMARY, 11
+CILIARY DYSKINESIA, PRIMARY, 12
+Collapse
+Collapses
+Complete atelectasis
+Complete atelectasis of left lung
+Complete atelectasis of right lung
+Comprometimento auditivo (SMQ)
+Compromissione dell'udito (SMQ)
+Congestive Atelectases
+Congestive Atelectasis
+Congestive Pulmonary Atelectases
+Congestive Pulmonary Atelectasis
+Congestive atelectasis
+Contraction Pulmonary Atelectasis
+Deficiência auditiva (SMQ)
+Discoid atelectasis
+Due to
+Déficience auditive (SMQ)
+Déficit auditivo (SMQ)
+Focal atelectasis
+Halláskárosodás (SMQ)
+Hardhorendheid (SMQ)
+Hearing impairment (SMQ)
+Hoerstoerung (SMQ)
+Jiná a nespecifikovaná atelektáza plodu a novorozence
+Jiná a nespecifikovaná atelektáza plodu nebo novorozence
+Kontraksjonsatelektase
+Linear atelectasis
+Lower respiratory tract structure
+Lung structure
+Lung, NOS
+Magzat vagy újszülött egyéb és meghatározatlan atelectasiája
+Magzat és újszülött egyéb és meghatározatlan atelectasiája
+Neonatal respiratory system disorder
+OTHER LUNG DISEASES AND CONDITIONS
+Obstruction of lower respiratory tract
+Obstructive atelectasis
+Other and unspecified atelectasis of fetus and newborn
+Other and unspecified atelectasis of fetus or newborn
+Other pulmonary collapse
+Otras atelectasias y las no especificadas del feto o del recién nacido
+Otras atelectasias y las no especificadas del feto y del recién nacido
+Outra e NE atelectasia do feto e recém-nascido
+Outra e NE atelectasia do feto ou recém-nascido
+Perinatal atelectasis
+Platelike atelectasis
+Porucha sluchu (SMQ)
+Postoperativ pulmonal atelektase
+Postoperative Pulmonary Atelectasis
+Pressure collapse of lung due to anesthesia during pregnancy
+Pulmonal atelektase
+Pulmonal resorpsjonatelektase
+Pulmonary Atelectases, Congestive
+Pulmonary Atelectasis
+Pulmonary Atelectasis, Congestive
+Pulmonary collapse
+Resorption Pulmonary Atelectasis
+Round atelectasis
+Runde Atelektase
+Tympanic atelectasis
+adult respiratory distress syndrome
+andere en niet-gespecificeerde atelectase bij de foetus en pasgeborene
+andere en niet-gespecificeerde atelectase bij de foetus of pasgeborene
+atelectasia
+atelectasia total del pulmón derecho
+atelectasia total del pulmón izquierdo
+atelectasis
+atelectasis redondeada
+atelektáza
+colapso
+colapso de pulmón por presión debido a anestesia durante embarazo
+estructura de la vía respiratoria inferior
+estructura del pulmón
+kontrakční plicní atelektáza
+obstrucción del tracto respiratorio inferior
+plicní atelektáza způsobená resorpcí
+pooperační plicní atelektáza
+post therapeutic collapse of lung status
+resorption atelectasis without respiratory distress syndrome
+round atelectasis
+sonstige und unspezifische Atelektase bei Fetus und Neugeborenem
+trastorno del aparato respiratorio neonatal
+x-ray of chest: lobar atelectasis
+x-ray of chest: lobar or localized alveolar infiltrate
+x-ray of chest: platelike atelectasis
+Другой и неуточненный ателектаз у плода и новорожденного
+Другой и неуточненный ателектаз у плода или новорожденного
+Нарушение слуха (SMQ)
+聴覚障害（ＳＭＱ）
+기타 및 상세 불명의 태아 또는 신생아의 폐 확장 부전
+기타 및 상세 불명의 태아 및 신생아의 폐 확장 부전
+청력 장애(SMQ)

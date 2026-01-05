@@ -1,0 +1,197 @@
+15q21.1
+Abdominal X-Ray, AP View: Mass ___cm
+Abdominal mass
+Analytisk kemi, tekniker
+Analytiske kjemiske teknikker
+Body mass index:Prctl:Pt:^Patient:Qn
+Body mass index:Prctl:Pt:^Patient:Qn:Per age
+Body mass index:Prctl:Pt:^Patient:Qn:Per age and sex
+Body weight.max:Mass:Pt:^Patient:Qn:Reported
+Body weight:Mass:Pt:^Fetus:Qn:Estimated by palpation
+Body weight^XXX time ago:Mass:Pt:^Patient:Qn
+Body weight^at birth:Mass:Pt:^Patient:Qn:GNWCH
+Body weight^at birth:Mass:Pt:^Patient:Qn:NVSS
+Body weight^at birth:Mass:Pt:^Patient:Qn:Reported
+Body weight^pre current pregnancy:Mass:Pt:^Patient:Qn
+Body weight^pre most recent pregnancy:Mass:Pt:^Patient:Qn
+Body weight^when specimen taken:Mass:Pt:^Patient:Qn:Measured
+CDISC SDTM Method Terminology
+CDISC SDTM Terminology
+CDISC SEND Biospecimens Terminology
+CDISC SEND Terminology
+Cell Adhesion Process
+Cell Growth
+Cell Movement
+Cerebroretinal microangiopathy with calcifications and cysts
+Chemie-Technik, analytische
+Chemistry Techniques, Analytical
+Clorazepate (Dose) [Mass]
+Cyst of mesonephric duct
+Cyst of paramesonephric duct
+Dry body weight
+Estimated weight using Broselow Luten pediatric weight estimation
+FBN1 Gene
+FBN1 gene
+FBN1 gene (lab test)
+FBN1 gene targeted mutation analysis:Find:Pt:Bld/Tiss:Doc:Molgen
+FBN1 wt Allele
+FBN1, 302.5-KB DEL
+FBN1, 366-BP DEL
+FBN1, 4-BP INS, NT5138
+FBN1, 83-BP DEL
+FBN1, ARG1137PRO
+FBN1, ARG485CYS
+FBN1, ASN2144SER
+FBN1, ASN548ILE
+FBN1, ASP723ALA
+FBN1, CYS1086TYR
+FBN1, CYS1249SER
+FBN1, CYS1564SER
+FBN1, CYS1577GLY
+FBN1, CYS1663ARG
+FBN1, CYS2221SER
+FBN1, CYS2307SER
+FBN1, G8268A, TRP2756TER
+FBN1, TRP1570CYS, 4710G-C
+FBN1, TRP1570CYS, 4710G-T
+FBN1, TYR2113TER, EX51DEL
+Fine needle aspiration biopsy of mass of parotid salivary gland
+Fine needle aspiration biopsy of mass of scalp
+Fine needle aspiration biopsy of superficial mass of thyroid
+Guidance for needle localization of mass:Find:Pt:Breast.bilateral:Doc:MG
+Guidance for needle localization of mass:Find:Pt:Breast.left:Doc:MG
+Guidance for needle localization of mass:Find:Pt:Breast.right:Doc:MG
+Guidance for needle localization of mass:Find:Pt:Breast:Doc:MG
+HEPATITIS
+HEPATOMEGALY
+Human
+Inject Rh immune globulin:Mass:Pt:Dose:Qn
+Intra-abdominal and pelvic swelling, mass and lump, unspecified site
+Intrahepatic Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma
+Kind of Quantity
+Korean Standard Classification of Disease Version 5
+Lactulose.PO:Mass:Pt:Dose:Qn
+Lump
+Marfan Syndrome
+Marfan Syndrome, Type I
+Mass
+Mass Spectrometry
+Mass in breast
+Mass of body region
+Mass of body structure
+Mass of duodenum
+Mass of lower limb
+Mass of psoas muscle
+Mass of subcutaneous tissue of upper limb
+Mass of thoracic structure
+Mass of trunk
+Mass of upper limb
+Mass of uterine adnexa
+Mass of wrist joint
+Mass, a measure of quantity of matter
+Mesantoin (Dose) [Mass]
+Metody chemiczne analityczne
+Microinvasive Breast Carcinoma
+Molecular Mass
+Molecular Weight
+Morphogenesis
+Nasopharyngeal Hairy Polyp
+Neoplasm of articular cartilage
+Neoplasm of glomus jugulare
+Not Translated[Chemistry Techniques, Analytical]
+OTC wt Allele
+Organogenesis
+Ovarian Clear Cell Adenocarcinofibroma
+Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation
+Ovarian Mucinous Adenocarcinofibroma
+Ovarian Serous Adenocarcinofibroma
+Ovarian Small Cell Carcinoma
+Physicochemical Property
+Platelet mass (Bld) [Volume fraction]
+Polycystic mass of uterine adnexa
+Polyp Tip
+Sarcoid arthritis
+Specimen Source Codes
+Specimen Source Codes - Mass
+Subchondral hematoma
+TGF-beta Signaling Pathway KEGG
+Techniques de chimie analytique
+Tecniche di chimica analitica
+Thoracoscopic excision of mass of pericardium
+Técnicas de Química Analítica
+Weight gain^during current pregnancy:Mass:Pt:^Patient:Qn
+Weight gain^during most recent pregnancy:Mass:Pt:^Patient:Qn
+Weill-Marchesani Syndrome, Autosomal Recessive
+Weill-Marchesani syndrome
+Wound Repair
+abdominal mass by exam
+abdominal x-ray, AP view: calcified mass
+abdominal x-ray, AP view: calcified mass suggestive of fibroid
+abdominal x-ray, AP view: cystic mass
+abdominal x-ray, AP view: flank mass
+abdominal x-ray, AP view: mass of left lower quadrant
+abdominal x-ray, AP view: mass of left upper quadrant
+abdominal x-ray, AP view: multiple masses
+atomic mass
+biopsia de masa de cuero cabelludo por aspiración con aguja fina
+biopsia de masa de glándula parótida por aspiración con aguja fina
+biopsia de masa superficial de glándula tiroides por aspiración con aguja fina
+ceFAZolin (Dose) [Mass]
+chemické techniky analytické
+clomiPRAMINE (Dose) [Mass]
+column chromatography-mass spectrometry
+column chromatography-mass spectrometry using stable isotope dilution, quantitative
+column chromatography-mass spectrometry using stable isotope dilution, quantitative, multiple analysis
+column chromatography-mass spectrometry using stable isotope dilution, quantitative, single analysis
+column chromatography-mass spectrometry, qualitative
+column chromatography-mass spectrometry, quantitative
+fibrillin-1
+hematoma subcondral
+history
+masa de anexos uterinos
+masa de articulación de muñeca
+masa de estructura torácica
+masa de tejido subcutáneo de miembro superior
+masa del músculo psoas
+masa del tronco
+masa duodenal
+masa poliquística de anexos uterinos
+mass spectrometry and tandem mass spectrometry qualitative
+mass spectrometry and tandem mass spectrometry quantitative
+microangiopatía cerebrorretiniana con calcificaciones y quistes
+molecular weight
+multiple abdominal masses
+neoplasia benigna de costillas, esternón y/o clavícula
+neoplasia de cartílago articular
+neoplasia del glomo yugular
+periumbilical mass
+peso calculado con la estimación de peso pediátrico de Broselow Luten
+peso corporal seco
+quiste de conducto mesonéfrico
+quiste de conducto paramesonéfrico
+rapidly growing breast lump
+resección toracoscópica de masa de pericardio
+tumoración de estructura corporal
+ultrasound of breast: mass #1 of inferior lateral quadrant of left breast
+ultrasound of breast: mass #1 of inferior medial quadrant of left breast
+ultrasound of breast: mass #1 of superior lateral quadrant of left breast
+ultrasound of breast: mass #2 of inferior lateral quadrant of left breast
+ultrasound of breast: mass #2 of inferior medial quadrant of left breast
+ultrasound of breast: mass #2 of superior lateral quadrant of left breast
+ultrasound of breast: mass #3 of inferior lateral quadrant of left breast
+ultrasound of breast: mass #3 of inferior medial quadrant of left breast
+ultrasound of breast: mass of inferior lateral quadrant of left breast
+ultrasound of breast: mass of inferior medial quadrant of left breast
+ultrasound of breast: mass of superior lateral quadrant of left breast
+ultrasound of breast: mass of superior medial quadrant of left breast
+ultrasound of breast: solid mass #1 of inferior lateral quadrant of left breast
+ultrasound of breast: solid mass #1 of inferior medial quadrant of left breast
+ultrasound of breast: solid mass #1 of superior lateral quadrant of left breast
+ultrasound of breast: solid mass #2 of inferior lateral quadrant of left breast
+ultrasound of breast: solid mass #2 of inferior medial quadrant of left breast
+ultrasound of breast: solid mass #2 of superior lateral quadrant of left breast
+ultrasound of breast: solid mass #3 of inferior lateral quadrant of left breast
+ultrasound of breast: solid mass #3 of inferior medial quadrant of left breast
+urine toxicology screen by gas chromatography or mass spectrometry
+ХИМИЧЕСКИЕ МЕТОДЫ АНАЛИТИЧЕСКИЕ
+分析化学技法

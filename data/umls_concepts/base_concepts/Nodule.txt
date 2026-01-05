@@ -1,0 +1,42 @@
+Lung
+Blood vessels
+Bronchi
+Diaphragm
+Heart
+Lymph nodes
+Mediastinum
+Pleura
+Ribs
+Trachea
+Size of the nodule
+Associated lymphadenopathy
+Calcification patterns
+Density (solid, subsolid, or ground-glass opacity)
+Density of the nodule
+Growth rate over time
+Location within the lung
+Margins (well-defined or irregular)
+Margins of the nodule
+Presence of cavitation
+Presence of spiculation or lobulation
+Shape of the nodule
+Surrounding lung tissue changes
+Lung nodule
+abnormal growth
+Biological anomaly
+Health disorder
+Health issue
+Lung condition
+Medical condition
+Pulmonary abnormality
+Respiratory condition
+Respiratory disorder
+Thoracic disease
+anatomical abnormality
+biological condition
+health condition
+lesion
+natural phenomenon
+pathological condition
+physiological phenomenon
+tissue abnormality

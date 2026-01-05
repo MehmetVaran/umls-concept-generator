@@ -1,0 +1,713 @@
+================================================================================
+UMLS Concept Set Evaluation Report: Atelectasis
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 110
+Unique Concept Names: 110
+Candidate Concepts: 110
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.920 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.945
+  - Diversity: 1.000
+  - Relevance: 0.726
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 11
+Quality Concepts: 99
+Duplicates: 1
+Noise Ratio: 10.00%
+Duplicate Ratio: 1.01%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.452
+Min Relevance: -0.018
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Cardiomegaly
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 121
+Unique Concept Names: 121
+Candidate Concepts: 121
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.917 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.955
+  - Diversity: 1.000
+  - Relevance: 0.698
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 11
+Quality Concepts: 110
+Duplicates: 0
+Noise Ratio: 9.09%
+Duplicate Ratio: 0.00%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.396
+Min Relevance: -0.105
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Consolidation
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 144
+Unique Concept Names: 144
+Candidate Concepts: 144
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.874 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.909
+  - Diversity: 1.000
+  - Relevance: 0.572
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 25
+Quality Concepts: 119
+Duplicates: 1
+Noise Ratio: 17.36%
+Duplicate Ratio: 0.84%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.145
+Min Relevance: -0.044
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Edema
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 92
+Unique Concept Names: 92
+Candidate Concepts: 92
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.911 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.935
+  - Diversity: 1.000
+  - Relevance: 0.702
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 12
+Quality Concepts: 80
+Duplicates: 0
+Noise Ratio: 13.04%
+Duplicate Ratio: 0.00%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.405
+Min Relevance: 0.024
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Effusion
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 144
+Unique Concept Names: 144
+Candidate Concepts: 144
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.894 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.934
+  - Diversity: 1.000
+  - Relevance: 0.628
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 19
+Quality Concepts: 125
+Duplicates: 0
+Noise Ratio: 13.19%
+Duplicate Ratio: 0.00%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.256
+Min Relevance: -0.015
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Emphysema
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 130
+Unique Concept Names: 130
+Candidate Concepts: 130
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.896 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.908
+  - Diversity: 1.000
+  - Relevance: 0.673
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 24
+Quality Concepts: 106
+Duplicates: 0
+Noise Ratio: 18.46%
+Duplicate Ratio: 0.00%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.346
+Min Relevance: -0.038
+Max Relevance: 0.904
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Fibrosis
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 158
+Unique Concept Names: 158
+Candidate Concepts: 158
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.919 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.952
+  - Diversity: 1.000
+  - Relevance: 0.710
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 12
+Quality Concepts: 146
+Duplicates: 3
+Noise Ratio: 7.59%
+Duplicate Ratio: 2.05%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.420
+Min Relevance: -0.005
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Hernia
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 161
+Unique Concept Names: 161
+Candidate Concepts: 161
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.910 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.906
+  - Diversity: 1.000
+  - Relevance: 0.740
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 28
+Quality Concepts: 133
+Duplicates: 2
+Noise Ratio: 17.39%
+Duplicate Ratio: 1.50%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.480
+Min Relevance: -0.045
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Infiltration
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 165
+Unique Concept Names: 165
+Candidate Concepts: 165
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.896 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.939
+  - Diversity: 1.000
+  - Relevance: 0.629
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 20
+Quality Concepts: 145
+Duplicates: 0
+Noise Ratio: 12.12%
+Duplicate Ratio: 0.00%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.258
+Min Relevance: -0.068
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Mass
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 197
+Unique Concept Names: 197
+Candidate Concepts: 197
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.889 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.949
+  - Diversity: 1.000
+  - Relevance: 0.581
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 19
+Quality Concepts: 178
+Duplicates: 1
+Noise Ratio: 9.64%
+Duplicate Ratio: 0.56%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.162
+Min Relevance: -0.072
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Nodule
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 190
+Unique Concept Names: 190
+Candidate Concepts: 190
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.866 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.782
+  - Diversity: 1.000
+  - Relevance: 0.729
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 81
+Quality Concepts: 109
+Duplicates: 1
+Noise Ratio: 42.63%
+Duplicate Ratio: 0.92%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.459
+Min Relevance: -0.090
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Pleural_thickening
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 52
+Unique Concept Names: 52
+Candidate Concepts: 52
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.902 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.875
+  - Diversity: 1.000
+  - Relevance: 0.751
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 13
+Quality Concepts: 39
+Duplicates: 0
+Noise Ratio: 25.00%
+Duplicate Ratio: 0.00%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.503
+Min Relevance: 0.005
+Max Relevance: 0.896
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Pneumonia
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 143
+Unique Concept Names: 143
+Candidate Concepts: 143
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.899 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.894
+  - Diversity: 1.000
+  - Relevance: 0.706
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 29
+Quality Concepts: 114
+Duplicates: 1
+Noise Ratio: 20.28%
+Duplicate Ratio: 0.88%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.412
+Min Relevance: -0.035
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================
+
+================================================================================
+UMLS Concept Set Evaluation Report: Pneumothorax
+================================================================================
+
+SUMMARY METRICS
+--------------------------------------------------------------------------------
+Total Concepts: 154
+Unique Concept Names: 154
+Candidate Concepts: 154
+Related Concepts: 0
+
+OVERALL SCORE
+--------------------------------------------------------------------------------
+Overall Score: 0.925 / 1.0
+
+Component Scores:
+  - Coverage: 1.000
+  - Quality: 0.941
+  - Diversity: 1.000
+  - Relevance: 0.756
+  - Semantic_diversity: 0.000
+
+QUALITY METRICS
+--------------------------------------------------------------------------------
+Noise Count: 17
+Quality Concepts: 137
+Duplicates: 1
+Noise Ratio: 11.04%
+Duplicate Ratio: 0.73%
+
+SEMANTIC TYPES
+--------------------------------------------------------------------------------
+Unique Semantic Types: 0
+
+RELATION TYPES
+--------------------------------------------------------------------------------
+Unique Relation Types: 0
+
+RELEVANCE SCORES (Semantic Similarity)
+--------------------------------------------------------------------------------
+Average Relevance: 0.511
+Min Relevance: -0.020
+Max Relevance: 1.000
+
+DIVERSITY
+--------------------------------------------------------------------------------
+Diversity Score: 1.000
+Unique Ratio: 1.000
+
+================================================================================

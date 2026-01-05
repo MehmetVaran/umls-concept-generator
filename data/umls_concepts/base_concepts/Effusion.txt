@@ -1,0 +1,45 @@
+Pleura
+Aorta
+Costophrenic angle
+Diaphragm
+Esophagus
+Heart
+Lung
+Mediastinum
+Pulmonary vessels
+Rib cage
+Ribs
+Thoracic spine
+Blunting of the costophrenic angle
+Displacement of adjacent structures
+Flattening of the diaphragm on the affected side
+Fluid level on lateral decubitus view
+Fluid tracking along the pleural surface
+Homogeneous opacity in the lung field
+Homogeneous opacity in the pleural space
+Increased opacity over the lower lung fields
+Loculated fluid collections
+Loss of diaphragmatic silhouette
+Mediastinal shift (if large effusion)
+Mediastinal shift away from the effusion
+Meniscus sign
+Pleural thickening
+Subpulmonic fluid collection
+Thickening of the pleura
+effusion
+pleural effusion
+biological condition
+condition
+disease
+disorder
+fluid accumulation
+fluid accumulation disorder
+health condition
+lung disease
+medical condition
+pathological condition
+physiological condition
+pleural disorder
+pulmonary disorder
+respiratory condition
+thoracic disease

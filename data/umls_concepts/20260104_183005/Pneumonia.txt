@@ -1,0 +1,143 @@
+(Obstetric anesthesia with pulmonary complications) or (Mendelson's syndrome)
+Alahengitysteiden bakteeri-infektiot
+Alsó légúti bacteriális fertőzések
+Alumiste hingamisteede bakteriaalsed infektsioonid
+Aspiraatio
+Aspiración Respiratoria
+Aspiracja oddechowa
+Aspiration Pneumonia
+Aspiration, respiratorische
+Aspirazione respiratoria
+Aspiração Respiratória
+Atypical pneumonia
+Atypická pneumonie
+Bacterial lower respiratory tract infections
+Bakteriella infektioner i nedre luftvägar
+Bakterijske infekcije donjih dišnih putova
+Bakteriální infekce dolních cest dýchacích
+Bakteryjne zakażenia dolnych dróg oddechowych
+Bronchopneumonia due to S. pneumoniae
+CARDIAC ARREST
+CILIARY DYSKINESIA, PRIMARY, 11
+Dziļāko elpceļu bakteriālas infekcijas
+Eosinofiele pneumonie (SMQ)
+Eosinophile Pneumonie (SMQ)
+Eosinophilic Pneumonia
+Eosinophilic pneumonia (SMQ)
+Eosinophiliás pneumonia (SMQ)
+Eozinofilní pneumonie (SMQ)
+Event description.adverse event:Find:Pt:^Patient:Nom:Observed.MERSTH
+Gonococcal pneumonia
+HEMOPTYSIS
+HIV TEST POSITIVE
+Herpesvirus 1, Equid
+Human metapneumovirus pneumonia
+IMMUNODEFICIENCY 67
+IMMUNODEFICIENCY 68
+Idiopathic Interstitial Pneumonia
+Idiopathic interstitial pneumonia
+Infecções bacterianas das vias aéreas inferiores
+Infezioni batteriche delle vie respiratorie inferiori
+Inflammatory morphology
+Inhalation bronchique
+Klebsiella aerogenes biovar pneumoniae
+Korean Standard Classification of Disease Version 5
+Lobar Pneumonia
+Lélegeztetőgéppel kapcsolatos bacterialis pneumonia
+Methicillin susceptible pneumonia due to Staphylococcus aureus
+Mycoplasma pneumonia
+NBN
+Neumonía bacteriana asociada a la ventilación mecánica
+Neumonía eosinofílica (SMQ)
+OMENN SYNDROME
+Pneumococcal lobar pneumonia
+Pneumonia
+Pneumonia bacteriana associada a ventilador
+Pneumonia caused by Human metapneumovirus
+Pneumonia caused by Staphylococcus aureus
+Pneumonia caused by Streptococcus pyogenes
+Pneumonia caused by aerobic bacteria
+Pneumonia caused by methicillin susceptible Staphylococcus aureus
+Pneumonia due to SARS-associated coronavirus
+Pneumonia due to gram-positive bacteria
+Pneumonia due to other staphylococcus
+Pneumonia due to staphylococcus aureus
+Pneumonia eosinofílica (SMQ)
+Pneumonia in last 7D:Find:7D:^Patient:Ord:MDSv3
+Pneumonia, Bacterial
+Pneumonia, Interstitial
+Pneumonia, Viral
+Pneumonia: [lobar] or [pneumococcal]
+Pneumonie atypique
+Pneumonie bactérienne associée à un respirateur
+Pneumonitis due to inhalation of food and vomit
+Pneumopathie à éosinophiles (SMQ)
+Polmonite atipica
+Polmonite batterica associata alla ventilazione meccanica
+Polmonite eosinofila (SMQ)
+Postoperative aspiration pneumonia
+RIDDLE SYNDROME
+ROIFMAN-CHITAYAT SYNDROME
+Respiratorisk aspirasjon
+Respiratorisk inandning
+Respiratory Aspiration
+Rubella pneumonia
+Staphylococcal Pneumonia
+Streptococcal pneumonia
+VABP
+VAP
+Ventilator associated bacterial pneumonia
+Ventilatorgeassocieerde bacteriële pneumonie
+Viral pneumonia, not elsewhere classified
+ascariasis with pneumonia
+aspirace do dýchacích cest
+atypical pneumonia
+atypische pneumonie
+azithromycin anhydrous
+bronchopneumonia; Eaton's agent
+bronchopneumonia; pleuro-pneumonia-like-organisms (PPLO)
+cefaclor anhydrous
+cephalexin anhydrous
+complications
+diagnosis
+doxycycline anhydrous
+echovirus pneumonia
+epidemiology
+ethnology
+etiology
+genetics
+geriatric presentation of bacterial pneumonia
+group A streptococcal pneumonia
+history
+immunology
+lobar; pneumonia, pneumococcal
+lobar; pneumonia, virus
+morfología inflamatoria
+neumonía causada por Staphylococcus aureus
+neumonía causada por Streptococcus pyogenes
+neumonía causada por bacterias aeróbicas
+neumonía causada por metapneumovirus humano
+neumonía lobar neumocócica
+neumonía por rubéola
+ondersteluchtweginfecties bacterieel
+parasitology
+pleuro-pneumonia-like-organism; pneumonia
+pneumonia due to drug resistant Streptococcus pneumoniae
+pneumonia; bronchopneumonia, Eaton's agent
+pneumonia; bronchopneumonia, pleuro-pneumonia-like-organisms (PPLO)
+pneumonia; bronchopneumonia, virus
+pneumonia; lobar, pneumococcal
+pneumonia; lobar, virus
+pneumonia; pleuro-pneumonia-like-organism
+psychology
+recent aspiration of gastric contents (history)
+telavancin hydrochloride
+ventilator-associated bacterial pneumonia
+Βακτηριακές λοιμώξεις του κατώτερου αναπνευστικού
+АСПИРАЦИЯ РЕСПИРАТОРНАЯ
+Бактериальные инфекции нижних дыхательных путей
+Эозинофильная пневмония (SMQ)
+好酸球性肺炎（ＳＭＱ）
+細菌性下気道感染
+세균 하기도 감염
+호산구성 폐렴(SMQ)

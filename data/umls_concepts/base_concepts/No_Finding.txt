@@ -1,0 +1,49 @@
+Heart
+Aorta
+Clavicles
+Diaphragm
+Hilar structures
+Lungs
+Mediastinum
+Pulmonary vessels
+Ribs
+Thoracic spine
+Trachea
+Vertebrae
+Clear lung fields
+Absence of pleural effusion
+Absence of pulmonary nodules or masses
+Absence of vascular congestion or engorgementThese features collectively indicate a normal chest radiograph with no detectable pathology.
+Clear costophrenic angles
+For the radiological assessment of "No Finding," the following visual features are typically noted to ensure that there are no abnormalities present:
+Intact and normal-appearing soft tissues
+Intact bony structures
+No abnormal opacities
+No evidence of bone abnormalities
+No mediastinal shift
+No pleural effusion
+No pneumothorax
+No signs of consolidation
+No signs of pneumothorax
+Normal diaphragm position
+Normal diaphragm position and contour
+Normal heart size
+Normal heart size and shape
+Normal vascular markings
+radiological finding
+clinical finding
+diagnostic finding
+health assessment
+health condition
+health record entry
+health status
+healthcare evaluation
+healthcare observation
+medical assessment
+medical category
+medical evaluation
+medical finding
+medical information
+medical observation
+patient data
+patient examination

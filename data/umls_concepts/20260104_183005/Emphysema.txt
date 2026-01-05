@@ -1,0 +1,130 @@
+(Respiratory disease NOS) or (adult respiratory distress syndrome) or (pneumomediastinum) or (tracheomalacia)
+(Sawyer-Jones syndrome) or (other emphysema NOS)
+Afecções congénitas, familiares e genéticas (SMQ)
+Affections congénitales, familiales et génétiques (SMQ)
+Aspergillus fumigatus allergenic extract
+Bullous emphysema
+Bullous emphysema (lung)(pulmonary)
+Bőr beavatkozás szövődményei
+CDISC SEND Terminology
+CLEFT PALATE, CARDIAC DEFECTS, AND IMPAIRED INTELLECTUAL DEVELOPMENT
+CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IC
+Cause of death:Find:Pt:^Family member:Nom:USSG-FHT
+Centriacinar Emphysema
+Chronic bullous emphysema
+Chronic obstructive pulmonary disease and bronchiectasis
+Compensatory emphysema
+Complications d'interventions sur la peau
+Complicazioni di procedure cutanee
+Congenital Lesion
+Congenital emphysema
+Congenital, familial and genetic disorders (SMQ)
+Congenitale, familiale en genetische aandoeningen (SMQ)
+Disorder of body cavity
+Disorder of subcutaneous tissue
+Distúrbios congênitos, de família e genéticos (SMQ)
+Emphysema, Congenital, With Deafness, Penoscrotal Web, And Mental Retardation
+Emphysema, NOS
+Emphysema, bullous
+Emphysema, interstitial
+Emphysematous bulla
+Enfisema Intersticial Pulmonar
+Enfisema Pulmonar Intersticial
+Enfisema focale
+Family history of pulmonary emphysema
+Focal Emphysema
+Hipertensión pulmonar (SMQ)
+Hipertensão pulmonar (SMQ)
+History of diseases:Hx:Pt:^Family member:Nom:USSG-FHT
+History of diseases:Hx:Pt:^Patient:Nom:USSG-FHT
+Hypertension pulmonaire (SMQ)
+Idiopathic Pulmonary Fibrosis
+Iedzimti, ģimenes un ģenētiski traucējumi (SMQ)
+Interstitial emphysema
+Interstitial emphysema of lung
+Ipertensione polmonare (SMQ)
+KEUTEL SYNDROME
+Kaasasündinud, perekondlikud ja geneetilised haigusseisundid (SMQ)
+Keuhkoverenpainetauti (SMQ)
+Kongenitale, familiaere und genetische Erkrankungen (SMQ)
+Kongenitální, familiální a genetické poruchy (SMQ)
+Korean Standard Classification of Disease Version 5
+Kožní komplikace výkonů
+Lungnaháþrýstingur (SMQ)
+Medfödda, ärftliga och genetiska sjukdomar (SMQ)
+Mediastinal Emphysema
+Meðfæddar, ættgengar og erfðafræðilegar raskanir (SMQ)
+Nadciśnienie płucne (SMQ)
+Panacinar Emphysema
+Pathological accumulation of air in tissues
+Patologie congenite, familiari e genetiche (SMQ)
+Plaučių hipertenzija (SMQ)
+Plaušu hipertensija (SMQ)
+Pleurisy; pneumothorax; pulmonary collapse
+Plućne hipertenzije (SMQ)
+Prirođeni, obiteljski i genetski poremećaji (SMQ)
+Pulmonaalne hüpertensioon (SMQ)
+Pulmonale Hypertonie (SMQ)
+Pulmonale hypertensie (SMQ)
+Pulmonalis hypertonia (SMQ)
+Pulmonary Emphysema
+Pulmonary Interstitial Emphysema
+Pulmonary hypertension (SMQ)
+Pulmonell hypertension (SMQ)
+Pulmonální hypertenze (SMQ)
+Secondary effect of trauma
+Skin procedural complications
+Subcutaneous Emphysema
+Synnynnäiset suvuttaiset ja geneettiset sairaudet (SMQ)
+Tension pneumomediastinum
+Trastornos congénitos, familiares y genéticos (SMQ)
+Unilateral pulmonary emphysema [MacLeod's syndrome]
+Veleszületett, családi és genetikai rendellenességek (SMQ)
+Vesicular emphysema (lung)(pulmonary)
+Wady wrodzone, rodzinne i genetyczne (SMQ)
+antecedente familiar de enfisema pulmonar
+beech pollen extract
+complications
+computed tomography of chest: air containing structure of mediastinum
+computed tomography of chest: pneumomediastinum
+diagnosis
+distal acinar emphysema
+enfisema intersticial
+environmental respiratory disorders
+epidemiology
+ethnology
+etiology
+excision-plication of emphysematous lung
+excision-plication of emphysematous lung via sternal split approach
+excision-plication of emphysematous lung(s) by transthoracic approach
+fokální emfyzém
+genetics
+hereditary emphysema (alpha 1-antitrypsin deficiency)
+history
+immunology
+indacaterol maleate
+neumomediastino a tensión
+olodaterol
+orris allergenic extract
+parasitology
+psychology
+respiratory obstructive disorders
+smooth brome pollen extract
+trastorno de cavidad corporal
+trastorno del tejido celular subcutáneo
+unilateral hyperlucent lung
+x-ray of chest: pneumomediastinum
+Įgimti, šeiminiai ir genetiniai sutrikimai (SMQ)
+Πνευμονική υπέρταση (SMQ)
+Συγγενείς, οικογενείς και γενετικές διαταραχές (SMQ)
+Врожденные, наследственные и генетические нарушения (SMQ)
+Легочная гипертензия (SMQ)
+Осложнения после терапевтических и хирургических вмешательств со стороны кожи
+ارتفاع ضَغْطِ الدَّم الرِئَوِيّ (SMQ)
+الاضطرابات الخِلقية والعائلية والجينية (SMQ)
+先天性、家族性および遺伝性障害（ＳＭＱ）
+皮膚処置合併症
+肺高血圧症（ＳＭＱ）
+각종 피부 시술 합병증
+선천성, 가족성 및 유전성 장애(SMQ)
+폐 고혈압(SMQ)

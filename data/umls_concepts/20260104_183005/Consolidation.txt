@@ -1,0 +1,144 @@
+ALL Authorized Value Terminology
+ALL Course Timing Table
+ALL Histology Table
+ALL Off Protocol Therapy/Study Table
+ALL Vitals Table
+AML Authorized Value Terminology
+Abnormal hard tissue formation in pulp
+Abnormally hard consistency
+Acute obliterating bronchiolitis
+Administration - action
+Administration of antineoplastic agent
+Antineoplastic agent
+Arzneimitteltherapie
+Atypical pneumonia
+Bilateral basal pneumonia
+Bilateral pneumonia
+CONSISTENCIES
+CTRP Intervention Terminology
+CTRP Terminology
+Chronic induration of lung
+Confluent pneumonia
+Consolidated
+Consolidation
+Consolidation Chemotherapy
+Consolidation Immunotherapy
+Consolidation Therapy
+Consolidation Therapy with High-Dose Chemotherapy and Stem Cell Rescue
+Consolidation antineoplastic chemotherapy
+Consolidation de la mémoire
+Consolidation, Memory
+Consolidations, Memory
+Consolidação da Memória
+Drug Therapy
+Drug therapy
+EWS Authorized Value Terminology
+Enterobacter pneumonia
+Farmakoterapi
+Focal pneumonia
+GLANS PENIS PAPULAR INDURATION
+GLANS PENIS PUSTULAR INDURATION
+General Morphologic Expressions
+Gonococcal pneumonia
+Induration
+Induration of breast
+Induration of lung
+Inflammation and consolidation
+Intent To Treat
+JAW INDURATION
+JOINT INDURATION
+Leczenie farmakologiczne
+Lingular pneumonia
+Local Consolidation Therapy
+Lung consolidation
+Läkemedelsterapi
+Mechanical abnormality
+Memory Consolidation
+Memory Consolidations
+OS Authorized Value Terminology
+OS Biopsy/Surgical Procedures Table
+OS Function Test Table
+OS Histology Table
+OS Lab Table
+OS Molecular Analysis Table
+OS Off Protocol Therapy/Study Table
+OS Radiation Therapy Table
+OS Secondary Malignant Neoplasm Table
+OS Subject Response Table
+OS Survival Characteristics Table
+OS Total Dose Table
+OS Tumor Assessment Table
+OS Vitals Table
+PAMIATI KONSOLIDATSIIA
+Parenchymal consolidation
+Pharmacotherapy
+Pneumococcal lobar pneumonia
+Pneumonia caused by Acinetobacter
+Pneumonia caused by Histoplasma
+Pneumonia caused by Human metapneumovirus
+Pneumonia caused by Staphylococcus aureus
+Pneumonia caused by Streptococcus pyogenes
+Pneumonia caused by anaerobic bacteria
+Pneumonia caused by methicillin susceptible Staphylococcus aureus
+Proteus pneumonia
+Pulmonary opacity
+Quimioterapia
+Radiologic Finding
+Rubella pneumonia
+SEMINAL VESICULAR INDURATION
+SUBMAXILLARY INDURATION
+Skin Induration
+Terapia farmacologica
+Therapeutic
+Therapeutic Procedure
+Traitement médicamenteux
+Tratamento Farmacológico
+Ventilator associated pneumonia
+administración (acción)
+administración de agente antineoplásico
+administration of consolidation chemotherapy agent
+agente antineoplásico
+anormalidad mecánica
+chemotherapy administration
+classification
+consolidación de pulmón
+consolidated
+economics
+ethics
+farmakoterapie
+history
+indurated
+inflamación y consolidación
+konsolidace paměti
+memory process
+methods
+mortality
+neumonía asociada con el uso de respirador
+neumonía atípica
+neumonía bilateral
+neumonía causada por Histoplasma
+neumonía causada por Staphylococcus aureus
+neumonía causada por Staphylococcus aureus sensible a la meticilina
+neumonía causada por Streptococcus pyogenes
+neumonía causada por bacterias anaerobias
+neumonía causada por metapneumovirus humano
+neumonía confluente
+neumonía del lóbulo de la língula
+neumonía enterobacteriana
+neumonía focal
+neumonía gonocócica
+neumonía lobar neumocócica
+neumonía por Acinetobacter
+neumonía por Proteus
+neumonía por rubéola
+nursing
+propósito terapéutico
+psychology
+short-term and long-term memory
+standards
+statistics & numerical data
+tratamiento farmacológico
+trends
+veterinary
+ЛЕКАРСТВЕННАЯ ТЕРАПИЯ
+ПАМЯТИ КОНСОЛИДАЦИЯ

@@ -1,0 +1,45 @@
+Alveoli
+Blood vessels (e.g., pulmonary arteries and veins)
+Bronchi
+Bronchioles
+Diaphragm
+Heart
+Intercostal muscles
+Interlobular septa
+Lung parenchyma
+Mediastinum
+Pleura
+Pulmonary vessels
+Ribs
+Trachea
+Increased lung opacity
+Absence of calcification
+Air bronchograms
+Ground-glass opacities
+Homogeneous density
+Homogeneous lung density
+Ill-defined lung borders
+Ill-defined margins
+Lobar or segmental distribution
+Loss of lung markings
+Loss of silhouette sign
+Patchy or lobar distribution
+Pleural effusion
+Pleural effusion (may be present)
+Preservation of lung volume
+Silhouette sign
+Volume loss in the affected area
+lung condition
+pulmonary condition
+biological condition
+condition
+health condition
+medical condition
+medical disorder
+organic condition
+pathological condition
+physiological condition
+pulmonary disorder
+respiratory condition
+thoracic condition
+thoracic disease

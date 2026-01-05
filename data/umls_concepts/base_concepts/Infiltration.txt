@@ -1,0 +1,43 @@
+Alveoli
+Bronchi
+Bronchioles
+Diaphragm
+Hilar region
+Interlobular septa
+Interstitial space
+Lung parenchyma
+Mediastinum
+Pleura
+Pulmonary vasculature
+Rib cage
+Thoracic cage
+Patchy opacities
+Air bronchograms
+Alveolar consolidation
+Asymmetrical distribution
+Blurred diaphragm edges
+Blurred vascular markings
+Ground-glass opacities
+Hazy lung fields
+Increased lung markings
+Interstitial thickening
+Irregular margins
+Loss of lung volume
+Nodular patterns
+Pleural effusion
+Reticular patterns
+pulmonary infiltration
+biological phenomenon
+health condition
+health issue
+lung abnormality
+lung condition
+lung disease
+medical condition
+medical disorder
+pulmonary disorder
+respiratory abnormality
+respiratory condition
+respiratory disease
+respiratory disorder
+thoracic disease

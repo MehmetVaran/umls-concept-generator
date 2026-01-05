@@ -1,0 +1,92 @@
+ANGIOEDEMA, HEREDITARY, 1
+Abnormality of fluid regulation
+Afecções da córnea (SMQ)
+Afecções da retina (SMQ)
+Affections périorbitaires et des paupières (SMQ)
+Affections rétiniennes (SMQ)
+Angio-oedeem (SMQ)
+Angioedema (SMQ)
+Angioedème (SMQ)
+Angiooedem (SMQ)
+Ankle edema (finding)
+Anomalias periorbitais e das pálpebras (SMQ)
+Bilateral conjunctival edema
+Bilateral edema of orbits
+CONGESTIVE HEART FAILURE
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 3
+Cardiac failure (SMQ)
+Cerebral Edema
+Conjunctival edema of left eye
+Conjunctival edema of right eye
+Corneal disorders (SMQ)
+Corneal edema
+Edema
+Edema of entire limb
+Edema of extremity with extension to trunk
+Edema of left lower eyelid
+Edema of left orbit
+Edema of left upper eyelid
+Edema of right lower eyelid
+Edema of right orbit
+Edema of right upper eyelid
+Edema, generalized
+Hartfalen (SMQ)
+Herzinsuffizienz (SMQ)
+Hiponatremia/SIADH (SMQ)
+Hoornvliesaandoeningen (SMQ)
+Hyponatraemia/SIADH (SMQ)
+Hyponatremie/SIADH (SMQ)
+Hyponatriaemie / SIADH (SMQ)
+Insufficienza cardiaca (SMQ)
+Insuffisance cardiaque (SMQ)
+Insuficiencia cardiaca (SMQ)
+Insuficiência cardíaca (SMQ)
+Iponatremia/SIADH (SMQ)
+Korean Standard Classification of Disease Version 5
+Laryngeal Edema
+Larynx Edema, CTCAE
+Lymphedema of limb
+MULTICENTRIC CARPOTARSAL OSTEOLYSIS SYNDROME
+Netvliesaandoeningen (SMQ)
+No peripheral edema present
+Noncystoid edema of macula of retina
+Other and unspecified corneal edema
+Patologie della retina (SMQ)
+Patologie periorbitali e della palpebra (SMQ)
+Periorbital and eyelid disorders (SMQ)
+Periorbital edema
+Periorbitale en ooglidaandoeningen (SMQ)
+Periorbitální poruchy a poruchy očních víček (SMQ)
+Peripheral edema
+Pulmonary Edema
+RESPIRATORY DISTRESS SYNDROME IN PREMATURE INFANTS
+Retinal Edema
+Retinal disorders (SMQ)
+Srdeční selhání (SMQ)
+Structure of soft tissue of limb
+Szívelégtelenség (SMQ)
+Trastornos de la córnea (SMQ)
+Trastornos periorbitarios y palpebrales (SMQ)
+Trastornos retinianos (SMQ)
+edema conjuntival de ambos ojos
+edema conjuntival de ojo izquierdo
+edema de ambas órbitas
+edema de conjuntiva de ojo derecho
+edema de extremidad con extensión al tronco
+edema de miembro completo
+edema de párpado inferior derecho
+edema de párpado inferior izquierdo
+edema de párpado superior derecho
+edema de párpado superior izquierdo
+edema de órbita derecha
+edema de órbita izquierda
+estructura de partes blandas de extremidad
+extracapsular swelling of both ankles
+extracapsular swelling of right ankle
+linfedema de miembro
+no se evidencia edema periférico
+swelling of talofibular ligament of right ankle
+x-ray of chest: lungs pulmonary edema
+Сердечная недостаточность (SMQ)
+低ナトリウム血症／ＳＩＡＤＨ（ＳＭＱ）
+心不全（ＳＭＱ）

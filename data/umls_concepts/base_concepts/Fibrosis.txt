@@ -1,0 +1,43 @@
+Lung
+Alveoli
+Blood vessels
+Bronchi
+Chest wall
+Diaphragm
+Interlobular septa
+Interstitium
+Lymph nodes
+Mediastinum
+Pleura
+Pulmonary arteries
+Pulmonary veins
+Reticular pattern
+Architectural distortion
+Fibrotic bands
+Fibrotic streaks
+Ground-glass opacities
+Honeycombing
+Irregular interlobular septal thickening
+Pleural-based lines
+Septal thickening
+Subpleural and basal predominance
+Subpleural reticulation
+Traction bronchiectasis
+Volume loss
+Fibrosis
+Organ-specific fibrosis (e.g., pulmonary fibrosis, liver fibrosis)
+Biological condition
+Biological process
+Chronic disease
+Chronic inflammatory condition
+Connective tissue disorder
+Disease
+Disease process
+Health condition
+Medical condition
+Organ disorder
+Pathological condition
+Physiological process
+Systemic disorder
+Tissue disorder
+Tissue remodeling disorder
